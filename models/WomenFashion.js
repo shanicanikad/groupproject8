@@ -1,7 +1,7 @@
 const mongoose = require("../db/connections")
 const Schema = mongoose.Schema
 
-const FashionBrand = new Schema
+const WomenFashion = new Schema
 
 
     ({
@@ -43,4 +43,4 @@ const FashionBrand = new Schema
         link: String
     })
 
-module.exports = mongoose.model("FashionBrand", FashionBrand)
+module.exports = mongoose.model("WomenFashion", WomenFashion)

@@ -1,174 +1,219 @@
 [
   {
-    "logo": "https://senato.exblog.jp/iv/detail/?s=25959658&i=201609%2F18%2F51%2Ff0044151_165878.jpg",
+    "logo": "https://pds.exblog.jp/pds/1/201609/18/51/f0044151_165878.jpg",
     "brand_name": "Public School",
     "CEO": "Dao-Yi & Maxwell Osborne",
     "type": "High Fashion/ Accessible Streetwear",
     "price_point": "$$",
     "categories": [
       {
-        "tops": [
+        "category": "Tops",
+        "products": [
           {
-            "product_name1": "PSNY X Alpha Industries MA-1 Men's Reversible Bomber Jacket` Army 149.00 USD",
-            "image_url1": "https://www.publicschoolnyc.com/collections/men-new-arrivals/products/psny-alpha-m",
-            "description1": "Our exclusive collaboration with Alpha Industries features a new twist on the iconic MA-1 silhouette featuring our reversible \"WNL\" embroidery, removable shoulder carrying strap, \"PSNY\" velcro ID patch and other details",
-            "product_name2": "Love Your Mother Nature Long Sleeve Black 85.00 USD",
-            "image_url2": "https://www.publicschoolnyc.com/collections/men-new-arrivals/products/love-your-mother-nature-long-sleeve",
-            "description2": "Made in celebration of Earth Day Printed on recycled and 100% biodegradable tees by Version Tomorrow Tees are certified for their recycled and organic cotton content This long sleeve tee's graphics are printed using water based inks and do not contain any plastics or PVC Note: This tee runs true to small",
-            "product_name3": "Lotis Crew Black 235.00 USD",
-            "image_url3": "https://www.publicschoolnyc.com/collections/mens-tops/products/lotis-crew",
-            "description3": "Men's Crewneck sweater w/ french terry combo, Knit: 50% Merino Wool 50% Acrylic,French Terry: 100% Cotton",
-            "product_name4": "Tile Hoodie Red 125.00 USD",
-            "image_url4": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dwf6a02bbd/product/image/R0300S2CL/001/5x6/off-shoulder-sheer-dress-jet-black-1_748w.jpg",
-            "description4": "Men's basic french terry hoodie w/ graphic, 100% Cotton",
-            "product_name5": "Upcycled Denim Jacket 325.00.00 USD",
-            "image_url5": "https://www.publicschoolnyc.com/collections/mens-jackets/products/upcycled-501-denim-jacket",
-            "description": "Upcycled denim jacket made with vintage 501 jeans, Each one unique - hand disassembled and reassembled, Authentic 501 details including buttons, rivets, belt loops, leather patch and pocketing, Handmade in New York City"
+            "name": "PSNY X Alpha Industries MA-1 Men's Reversible Bomber Jacket` Army 149.00 USD",
+            "image_url": "https://www.publicschoolnyc.com/collections/men-new-arrivals/products/psny-alpha-m",
+            "details": "Our exclusive collaboration with Alpha Industries features a new twist on the iconic MA-1 silhouette featuring our reversible \"WNL\" embroidery, removable shoulder carrying strap, \"PSNY\" velcro ID patch and other details"
+          },
+          {
+            "name": "Love Your Mother Nature Long Sleeve Black 85.00 USD",
+            "image_url": "https://www.publicschoolnyc.com/collections/men-new-arrivals/products/love-your-mother-nature-long-sleeve",
+            "details": "Made in celebration of Earth Day Printed on recycled and 100% biodegradable tees by Version Tomorrow Tees are certified for their recycled and organic cotton content This long sleeve tee's graphics are printed using water based inks and do not contain any plastics or PVC Note: This tee runs true to small"
+          },
+          {
+            "name": "Lotis Crew Black 235.00 USD",
+            "image_url": "https://www.publicschoolnyc.com/collections/mens-tops/products/lotis-crew",
+            "details": "Men's Crewneck sweater w/ french terry combo, Knit: 50% Merino Wool 50% Acrylic,French Terry: 100% Cotton"
+          },
+          {
+            "name": "Tile Hoodie Red 125.00 USD",
+            "image_url": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dwf6a02bbd/product/image/R0300S2CL/001/5x6/off-shoulder-sheer-dress-jet-black-1_748w.jpg",
+            "details": "Men's basic french terry hoodie w/ graphic, 100% Cotton"
           }
-        ],
-        "bottoms": [
+        ]
+      },
+      {
+        "category": "Bottoms",
+        "products": [
           {
-            "product_name1": "M.K. Jogger Black 195.00 USD",
-            "image_url1": "https://www.publicschoolnyc.com/collections/mens-bottoms/products/m-k-jogger-1",
-            "description1": "Men's straight fit jogger with side tapes, drawstrings on waist, 63% Cotton 37% Nylon, Made in USA",
-            "product_name2": "Quint Swim Short 165.00 USD",
-            "image_url2": "https://www.publicschoolnyc.com/collections/mens-bottoms/products/quint-swim-short",
-            "description2": "Men's swim short w/ lining, 52% Cotton 48% Nylon, Made in USA",
-            "product_name3": "Rome Cargo Pants Army 295.00 USD",
-            "image_url3": "https://www.publicschoolnyc.com/collections/mens-bottoms/products/rome-cargo-pants",
-            "description4": "Made from deadstock cotton fabric, Large gauge metal logo zipper at the knee,Bellowed cargo pockets",
-            "product_name4": "Rome Cargo Pants Indigo 295.00 USD",
-            "image_url4": "https://www.publicschoolnyc.com/collections/mens-bottoms/products/rome-cargo-pants-navy",
-            "product_name5": " ",
-            "image_url5": "",
-            "description5": ""
+            "name": "M.K. Jogger Black 195.00 USD",
+            "image_url": "https://www.publicschoolnyc.com/collections/mens-bottoms/products/m-k-jogger-1",
+            "details": "Men's straight fit jogger with side tapes, drawstrings on waist, 63% Cotton 37% Nylon, Made in USA"
+          },
+          {
+            "name": "Quint Swim Short 165.00 USD",
+            "image_url": "https://www.publicschoolnyc.com/collections/mens-bottoms/products/quint-swim-short",
+            "details": "Men's swim short w/ lining, 52% Cotton 48% Nylon, Made in USA"
+          },
+          {
+            "name": "Rome Cargo Pants Army 295.00 USD",
+            "image_url": "https://www.publicschoolnyc.com/collections/mens-bottoms/products/rome-cargo-pants",
+            "details": "Made from deadstock cotton fabric, Large gauge metal logo zipper at the knee, Bellowed cargo pockets"
+          },
+          {
+            "name": "Rome Cargo Pants Indigo 295.00 USD",
+            "image_url": "https://www.publicschoolnyc.com/collections/mens-bottoms/products/rome-cargo-pants-navy",
+            "details": "Made from deadstock cotton fabric, Large gauge metal logo zipper at the knee,Bellowed cargo pockets"
           }
-        ],
-        "shoes": [
+        ]
+      },
+      {
+        "category": "Shoes",
+        "products": [
           {
-            "product_name1": "Leather Creeper 440.00 USD",
-            "image_url1": "https://www.publicschoolnyc.com/collections/mens-shoes",
-            "detail1": "Men's leather creeper with platform, 100% Cow Leather, Made in Portugal",
-            "product_name2": "Patent Creeper 325.00 USD",
-            "image_url2": "thttps://www.publicschoolnyc.com/collections/mens-shoes/products/siggy-creeper",
-            "detail2": "Men's patent leather creeper with yellow stitching,  Patent Leather, Made in Portugal",
-            "product_name3": "Timberland X PSNY 8 Pro Boot 240.00",
-            "image_url3": "https://www.publicschoolnyc.com/collections/mens-shoes/products/timberland-x-psny-8-pro-boot",
-            "detail3": "Taking it back to its true original form, our very first Timberland collaboration celebrates the ubiquitous construction worker whose incessant quest to beautify our dilapidated city has provided us with never-ending style inspiration,  We raised the classic 6” upper by 2 inches, sculpted the ankle, put it on a Timberland Pro bottom and flooded it in our PS Grey Nubuck, We added a chunky 8gg zipper to allow for easy access while maintaining its original waterproof standard, Waterproof",
-            "product_name4": "St Classic Braeburn Low-Top 325.00 USD",
-            "image_url4": "https://www.publicschoolnyc.com/collections/mens-shoes/products/classic-braeburn-low-top-shoe",
-            "detail4": "Our classic Braeburn sneaker features suede leather paneling in contrast colors, tonal stitching, and cup sole, Made in Portugal of Italian components",
-            "product_name5": "Otto Low-Rise 225.00 USD",
-            "image_url5": "https://www.publicschoolnyc.com/collections/mens-shoes/products/otto-low-rise",
-            "details5": "cracked-effect cow leather low rise sneaker with triangle lace-up detail and gum sole, Cracked Black, Made in Portugal of Italian components"
+            "name": "Leather Creeper 440.00 USD",
+            "image_url": "https://www.publicschoolnyc.com/collections/mens-shoes",
+            "details": "Men's leather creeper with platform, 100% Cow Leather, Made in Portugal"
+          },
+          {
+            "name": "Patent Creeper 325.00 USD",
+            "image_url": "thttps://www.publicschoolnyc.com/collections/mens-shoes/products/siggy-creeper",
+            "details": "Men's patent leather creeper with yellow stitching,  Patent Leather, Made in Portugal"
+          },
+          {
+            "name": "Timberland X PSNY 8 Pro Boot 240.00",
+            "image_url": "https://www.publicschoolnyc.com/collections/mens-shoes/products/timberland-x-psny-8-pro-boot",
+            "details": "Taking it back to its true original form, our very first Timberland collaboration celebrates the ubiquitous construction worker whose incessant quest to beautify our dilapidated city has provided us with never-ending style inspiration,  We raised the classic 6” upper by 2 inches, sculpted the ankle, put it on a Timberland Pro bottom and flooded it in our PS Grey Nubuck, We added a chunky 8gg zipper to allow for easy access while maintaining its original waterproof standard, Waterproof"
+          },
+          {
+            "name": "St Classic Braeburn Low-Top 325.00 USD",
+            "image_url": "https://www.publicschoolnyc.com/collections/mens-shoes/products/classic-braeburn-low-top-shoe",
+            "details": "Our classic Braeburn sneaker features suede leather paneling in contrast colors, tonal stitching, and cup sole, Made in Portugal of Italian components"
           }
-        ],
-        "accessories": [
+        ]
+      },
+      {
+        "category": "Accessories",
+        "products": [
           {
-            "product_name1": "WNL Mask 15.00 USD",
-            "image_url1": "https://www.publicschoolnyc.com/collections/mens-accessories/products/wnl-mask",
-            "detail1": "Screened WNL logo on left, Compliant with BFE Standards, Antiviral properties, Elasticated ear loop, 78% Cotton / 22% Polyester blend, Hand wash cold or delicate cycle. Line dry, Size Youth - Height: 5.1  Width 7in, Earloop: 5, Size M/L - Height 5.5in, Width: 8.8, Earloop: 5.5 - fits most men, Note: Non-medical grade. All masks are final sale and are not returnable",
-            "product_name2": "WNL Pom Pom Hat 125.00 USD",
-            "image_url2": "https://www.publicschoolnyc.com/collections/mens-accessories/products/wnl-pom-pom-hat",
-            "detail2": "Public School x New Era, WNL logo intarsia, 100% Cashmere",
-            "product_name3": "PSNY® 5 Panel - SAMPLE PROPERTY OF 65.00 USD",
-            "image_url3": "https://www.publicschoolnyc.com/collections/mens-accessories/products/psny-5-panel-sample-property-of ",
-            "detail3": "PSNY® 5 Panel, Multi Gray, Soft brim, French terry interior lining, PSNY® Classic raised embroidery, PROPERTY OF PSNY NOT FOR RESALE graphic printed on the right side and back strap, Adjustable rear closure",
-            "product_name4": "PSNY X Insatiable Monosling 225.00 USD",
-            "image_url4": "https://www.publicschoolnyc.com/collections/mens-accessories/products/psny-x-insatiable-monosling-grey",
-            "detail4": "We've partnered with insatiable.nyc, a softgoods studio based in Brooklyn, to create a limited run of the original monosling pack, Crafted in DWR 1000D Cordura with YKK zippers to mil-spec standards, Metal zippers, Detachable nylon sling with a removable shoulder strap, Comes with a PSNY engraved chain, Made in New York City, 100% of net proceeds will be contributed towards Apex For Youth mentoring and educational programs for Asian and immigrant youth from low-income families in NYC, Item will start shipping on August 17, 2020, Final Sale",
-            "product_name5": "When Nobody's Looking - PSNY Socks 18.00 USD",
-            "image_url5": "https://www.publicschoolnyc.com/collections/mens-accessories/products/psny-socks",
-            "details5": "In lieu of the brand’s predominantly black and white palette the sock features an all-black, white-heeled sock with the brand’s logo and finished with the words When nobody’s looking Stance joins Public School in creating a sock to coincide with the fashion label’s recent collaborations."
+            "name": "WNL Mask 15.00 USD",
+            "image_url": "https://www.publicschoolnyc.com/collections/mens-accessories/products/wnl-mask",
+            "details": "Screened WNL logo on left, Compliant with BFE Standards, Antiviral properties, Elasticated ear loop, 78% Cotton / 22% Polyester blend, Hand wash cold or delicate cycle. Line dry, Size Youth - Height: 5.1  Width 7in, Earloop: 5, Size M/L - Height 5.5in, Width: 8.8, Earloop: 5.5 - fits most men, Note: Non-medical grade. All masks are final sale and are not returnable"
+          },
+          {
+            "name": "WNL Pom Pom Hat 125.00 USD",
+            "image_url": "https://www.publicschoolnyc.com/collections/mens-accessories/products/wnl-pom-pom-hat",
+            "details": "Public School x New Era, WNL logo intarsia, 100% Cashmere"
+          },
+          {
+            "name": "PSNY® 5 Panel - SAMPLE PROPERTY OF 65.00 USD",
+            "image_url": "https://www.publicschoolnyc.com/collections/mens-accessories/products/psny-5-panel-sample-property-of ",
+            "details": "PSNY® 5 Panel, Multi Gray, Soft brim, French terry interior lining, PSNY® Classic raised embroidery, PROPERTY OF PSNY NOT FOR RESALE graphic printed on the right side and back strap, Adjustable rear closure"
+          },
+          {
+            "name": "PSNY X Insatiable Monosling 225.00 USD",
+            "image_url": "https://www.publicschoolnyc.com/collections/mens-accessories/products/psny-x-insatiable-monosling-grey",
+            "details": "We've partnered with insatiable.nyc, a softgoods studio based in Brooklyn, to create a limited run of the original monosling pack, Crafted in DWR 1000D Cordura with YKK zippers to mil-spec standards, Metal zippers, Detachable nylon sling with a removable shoulder strap, Comes with a PSNY engraved chain, Made in New York City, 100% of net proceeds will be contributed towards Apex For Youth mentoring and educational programs for Asian and immigrant youth from low-income families in NYC, Item will start shipping on August 17, 2020, Final Sale"
           }
         ]
       }
     ],
-    "link": "Sthttps://www.publicschoolnyc.com/ring"
+    "link": "thttps://www.publicschoolnyc.com/"
   },
 
   {
-    "logo": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F1003%2F3354%2Ft%2F10%2Fassets%2Flogo.svg%3F788560635383799832&imgrefurl=https%3A%2F%2Ffearofgod.com%2F&tbnid=h7sJJIyL3WHedM&vet=12ahUKEwjuq5nd3f3sAhUFyFkKHYl8CJwQMygAegUIARCBAg..i&docid=gEPuDAkY0dy3iM&w=800&h=102&q=fear%20of%20god%20clothing%20logo&ved=2ahUKEwjuq5nd3f3sAhUFyFkKHYl8CJwQMygAegUIARCBAg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTkQCyOzjq6Dk5dGoZRxUPuyWQsvkftyVZndQ&usqp=CAU",
     "brand_name": "Fear of Good",
     "CEO": "Jerry Lorenzo",
     "type": "High Fashion/ Luxury",
     "price_point": "$$$$",
     "categories": [
       {
-        "tops": [
+        "category": "Tops",
+        "products": [
           {
-            "product_name1": "FEAROFGODZegna Wool Double Breasted Coat Camel 3,415.00 USD",
-            "image_url1": "https://fearofgod.com/collections/fear-of-god-zegna/products/fearofgodzegna-wool-double-breasted-coat?variant=32889336168509",
-            "detail1": "We've partnered with insatiable.nyc, a softgoods studio based in Brooklyn, to create a limited run of the original monosling pack, Crafted in DWR 1000D Cordura with YKK zippers to mil-spec standards, Metal zippers, Detachable nylon sling with a removable shoulder strap, Comes with a PSNY engraved chain, Made in New York City, 100% of net proceeds will be contributed towards Apex For Youth mentoring and educational programs for Asian and immigrant youth from low-income families in NYC, Item will start shipping on August 17, 2020, Final Sale A voluminous double-breasted overcoat with an elegant shape, drape, and movement. Designed with the intention of layering and styling throughout the collection. The coat is fully lined in cupro with patch pockets and a back loop in self-fabric, finished off with a metal Zegna logo. Horn buttons, Patch pockets, Zegna metal branding, 100% brushed wool, Lined in 100% cupro, Made in Italy, Model is 6ft 1in and wearing a size 48",
-            "product_name2": "FEAROFGODZegna Wool Knit Polo Sweater 1,000.00 USD",
-            "image_url2": "hthttps://fearofgod.com/collections/fear-of-god-zegna/products/fearofgodzegna-wool-knitpolo-sweater",
-            "detail2": "A classic polo crafted in a heavy wool knit to add luxurious depth and texture. The voluminous proportions create contemporary shape and drape all perfectly framed by a heavy rib knit collar, cuffs, and waistband,Four horn button placket,Rib knit collar, cuffs and waistband,Zegna leather label, 100% wool, Made in Ital, Model is 5ft 9in and wearing a size 48",
-            "product_name3": "FEAROFGODZegna Cotton Cashmere Hoodie 790.00 USD",
-            "image_url3": "https://fearofgod.com/collections/fear-of-god-zegna/products/fearofgodzegna-cotton-cashmere-hoodie-black",
-            "detail3": "A slim fit hooded sweatshirt designed to be styled comfortably under jackets and coats. The hoodie is elevated through a cotton cashmere jersey with hidden brass snap buttons and framed by ribbed knit cuffs and waistband. A new Zegna logo redesigned and modernized through the Fear of God font is branded on the back, Hidden brass snap button Kangaroo pocket, Knitted cuffs and waistband,Zegna logo on back,93% cotton / 7% cashmer,Made in Portugal, Model is _ft _in and wearing a size M",
-            "product_name4": "FEAROFGODZegna Wool Single Breasted Lapelless Jacket 2,050.00 USD",
-            "image_url4": "https://fearofgod.com/collections/fear-of-god-zegna/products/fearofgodzegna-wool-single-breasted-lapelless-jack",
-            "detail4": "A wider shoulder width inspired by suiting of the late 80's, the lapelless jacket has hints of history with its shape but is modern in its finishing and design details, Horn button Hidden button cuffs, Locker loop in self fabric, Fully lined in 100% cupro 100% wool, Made in Italy,Model is 6ft 2in and wearing a size 48",
-            "product_name5": "FEAROFGODZegna Silk Anorak 3,100.00 USD",
-            "image_url5": "https://fearofgod.com/collections/fear-of-god-zegna/products/fearofgodzegna-silk-anorak?variant=32889335775293",
-            "details5": "An anorak elevated in a silk fabric fully lined in cupro to create a dense yet supple hand feel. The soft shoulders and kimono sleeves are generous and the knit zip-up turtleneck, cuffs, and waistband add contrasting warmth and texture.100% silk, Wool knit turtleneck, cuffs, waistband, Fully lined in 100% cupro, Made in Italy, Model is 6ft 1in and wearing a size 48"
+            "name": "FEAROFGODZegna Wool Double Breasted Coat Camel 3,415.00 USD",
+            "image_url": "https://fearofgod.com/collections/fear-of-god-zegna/products/fearofgodzegna-wool-double-breasted-coat?variant=32889336168509",
+            "details": "We've partnered with insatiable.nyc, a softgoods studio based in Brooklyn, to create a limited run of the original monosling pack, Crafted in DWR 1000D Cordura with YKK zippers to mil-spec standards, Metal zippers, Detachable nylon sling with a removable shoulder strap, Comes with a PSNY engraved chain, Made in New York City, 100% of net proceeds will be contributed towards Apex For Youth mentoring and educational programs for Asian and immigrant youth from low-income families in NYC, Item will start shipping on August 17, 2020, Final Sale A voluminous double-breasted overcoat with an elegant shape, drape, and movement. Designed with the intention of layering and styling throughout the collection. The coat is fully lined in cupro with patch pockets and a back loop in self-fabric, finished off with a metal Zegna logo. Horn buttons, Patch pockets, Zegna metal branding, 100% brushed wool, Lined in 100% cupro, Made in Italy, Model is 6ft 1in and wearing a size 48"
+          },
+          {
+            "name": "FEAROFGODZegna Wool Knit Polo Sweater 1,000.00 USD",
+            "image_url": "https://fearofgod.com/collections/fear-of-god-zegna/products/fearofgodzegna-wool-knitpolo-sweater",
+            "details": "A classic polo crafted in a heavy wool knit to add luxurious depth and texture. The voluminous proportions create contemporary shape and drape all perfectly framed by a heavy rib knit collar, cuffs, and waistband,Four horn button placket,Rib knit collar, cuffs and waistband,Zegna leather label, 100% wool, Made in Ital, Model is 5ft 9in and wearing a size 48"
+          },
+          {
+            "name": "FEAROFGODZegna Cotton Cashmere Hoodie 790.00 USD",
+            "image_url": "https://fearofgod.com/collections/fear-of-god-zegna/products/fearofgodzegna-cotton-cashmere-hoodie-black",
+            "details": "A slim fit hooded sweatshirt designed to be styled comfortably under jackets and coats. The hoodie is elevated through a cotton cashmere jersey with hidden brass snap buttons and framed by ribbed knit cuffs and waistband. A new Zegna logo redesigned and modernized through the Fear of God font is branded on the back, Hidden brass snap button Kangaroo pocket, Knitted cuffs and waistband,Zegna logo on back,93% cotton / 7% cashmer,Made in Portugal, Model is _ft _in and wearing a size M"
+          },
+          {
+            "name": "FEAROFGODZegna Wool Single Breasted Lapelless Jacket 2,050.00 USD",
+            "image_url": "https://fearofgod.com/collections/fear-of-god-zegna/products/fearofgodzegna-wool-single-breasted-lapelless-jack",
+            "details": "A wider shoulder width inspired by suiting of the late 80's, the lapelless jacket has hints of history with its shape but is modern in its finishing and design details, Horn button Hidden button cuffs, Locker loop in self fabric, Fully lined in 100% cupro 100% wool, Made in Italy,Model is 6ft 2in and wearing a size 48"
           }
-        ],
-        "bottoms": [
+        ]
+      },
+      {
+        "category": "Bottoms",
+        "products": [
           {
-            "product_name1": "FEAROFGODZegna Wool Single Pleat Trouser 1,025.00 USD",
-            "image_url1": "https://fearofgod.com/collections/fear-of-god-zegna/products/fearofgodzegna-wool-single-pleat-trouser?variant=32889339543613",
-            "details1": "A single pleat slim fit trouser with a slightly tapered leg is given contemporary style additions with side seam pockets and recognizable Fear of God zip leg closures, Back welt pocket, Side seam pockets, Zip closure at ankle, Lined in 100% cupro, 100% wool, Made in Italy, Model is 6ft 2in and wearing a size 48",
-            "product_name2": "FEAROFGODZegna Denim Jean 920.00 USD",
-            "image_url2": "https://fearofgod.com/collections/fear-of-god-zegna/products/fearofgodzenga-denim-pant",
-            "detail2": "A slim cut jean with minimal hardware for a clean aesthetic.  The jean is made in the USA with a 14oz Japanese selvedge denim and is treated with a vintage wash and a dry hand vintage process, Brass hardware, Zegna metal branding, 14oz Japanese selvedge denim, Made in USA,Model is 6ft 2in and wearing a size 32",
-            "product_name3": "FEAROFGODZegna Cotton Blend Sweatpant 620.00 USD",
-            "image_url3": "Sthttps://fearofgod.com/collections/fear-of-god-zegna/products/fearofgodzegna-cotton-blend-sweatpant-1ring",
-            "detail3": "SA Fear of God classic sweatpant softened and lightened to style seamlessly with tailored pieces. Includes new design details like a knitted waistband, side seam zipper pockets, as well as familiar Fear of God details like an extended belt strap and a Zegna branded leather label on the front, Back welt pocket, Side seam zipper pockets, Encased elastic waistband, Zegna branded leather label, Removable extended belt strap, 80% cotton / 20% polyester, Made in Portugaltring",
-            "product_name4": "FEAROFGODZegna Wool Double Pleat Trouser 1,145.00 USD",
-            "image_url4": "Sthttps://fearofgod.com/collections/fear-of-god-zegna/products/fearofgodzegna-wool-double-pleat-trouserring",
-            "detail4": "A double pleat trouser designed for versatile styling formally with suit jackets and loafers or casually with sweatshirts and sneakers. The grey twill stripe acts as a fashionable contrast against the black wool twill, Back welt pockets, Side seam pockets, Self fabric locker loop on back, 100% wool twill, Lined in 100% cupro, Made in Italy, Model is 5ft 11in and wearing a size 48",
-            "product_name5": "FEAROFGODZegna Cotton Blend Sweatpant 620.00 USD",
-            "image_url5": "https://fearofgod.com/collections/fear-of-god-zegna/products/fearofgodzegna-cotton-blend-sweatpant",
-            "details5": "A Fear of God classic sweatpant softened and lightened to style seamlessly with tailored pieces. Includes new design details like a knitted waistband, side seam zipper pockets, as well as familiar Fear of God details like an extended belt strap and a Zegna branded leather label on the front, Back welt pockets, Side seam zipper pockets, Encased elastic waistband, Zegna branded leather label, Removable extended belt strap, 80% cotton / 20% polyester, Made in Portugal"
+            "name": "FEAROFGODZegna Wool Single Pleat Trouser 1,025.00 USD",
+            "image_url": "https://fearofgod.com/collections/fear-of-god-zegna/products/fearofgodzegna-wool-single-pleat-trouser?variant=32889339543613",
+            "details": "A single pleat slim fit trouser with a slightly tapered leg is given contemporary style additions with side seam pockets and recognizable Fear of God zip leg closures, Back welt pocket, Side seam pockets, Zip closure at ankle, Lined in 100% cupro, 100% wool, Made in Italy, Model is 6ft 2in and wearing a size 48"
+          },
+          {
+            "name": "FEAROFGODZegna Denim Jean 920.00 USD",
+            "image_url": "https://fearofgod.com/collections/fear-of-god-zegna/products/fearofgodzenga-denim-pant",
+            "details": "A slim cut jean with minimal hardware for a clean aesthetic.  The jean is made in the USA with a 14oz Japanese selvedge denim and is treated with a vintage wash and a dry hand vintage process, Brass hardware, Zegna metal branding, 14oz Japanese selvedge denim, Made in USA,Model is 6ft 2in and wearing a size 32"
+          },
+          {
+            "name": "FEAROFGODZegna Cotton Blend Sweatpant 620.00 USD",
+            "image_url": "https://fearofgod.com/collections/fear-of-god-zegna/products/fearofgodzegna-cotton-blend-sweatpant-1ring",
+            "details": "A Fear of God classic sweatpant softened and lightened to style seamlessly with tailored pieces. Includes new design details like a knitted waistband, side seam zipper pockets, as well as familiar Fear of God details like an extended belt strap and a Zegna branded leather label on the front, Back welt pocket, Side seam zipper pockets, Encased elastic waistband, Zegna branded leather label, Removable extended belt strap, 80% cotton / 20% polyester, Made in Portugaltring"
+          },
+          {
+            "name": "FEAROFGODZegna Wool Double Pleat Trouser 1,145.00 USD",
+            "image_url": "https://fearofgod.com/collections/fear-of-god-zegna/products/fearofgodzegna-wool-double-pleat-trouserring",
+            "details": "A double pleat trouser designed for versatile styling formally with suit jackets and loafers or casually with sweatshirts and sneakers. The grey twill stripe acts as a fashionable contrast against the black wool twill, Back welt pockets, Side seam pockets, Self fabric locker loop on back, 100% wool twill, Lined in 100% cupro, Made in Italy, Model is 5ft 11in and wearing a size 48"
           }
-        ],
-        "shoes": [
+        ]
+      },
+      {
+        "category": "Shoes",
+        "products": [
           {
-            "product_name1": "FEAROFGODZegna Espadrille 550.00 USD",
-            "image_url1": "https://fearofgod.com/collections/fear-of-god-zegna/products/fearofgodzegna-espadrille-1String",
-            "detail1": "The classic espadrille reinvented through an American sportswear lens with a contrasting cream rubber sole and embossed Zegna logo on the heel, Embossed Zegna branding, Cream tpu sole, Suede leather,Made in Italy",
-            "product_name2": "FEAROFGODZegna Espadrille 550.00 USD",
-            "image_url2": "https://fearofgod.com/collections/fear-of-god-zegna/products/fearofgodzegna-espadrille?variant=32889334038589",
-            "detail2": "The classic espadrille reinvented through an American sportswear lens with a contrasting cream rubber sole and embossed Zegna logo on the heel, Embossed Zegna branding, Cream tpu sole, Smooth leather, Made in Italy",
-            "product_name3": "FEAROFGODZegna Suede Loafers 695.00 USD",
-            "image_url3": "https://fearofgod.com/collections/fear-of-god-zegna/products/fearofgodzegna-suede-loafers?variant=32889333186621",
-            "detail3": "The classic Italian driving loafer reimagined through an American sportswear lens with a contrasting cream rubber sole and embossed Zegna logo on the heel, Leather laces, Embossed Zegna branding, Cream tpu sole, Suede leather, Made in Italy",
-            "product_name4": "FEAROFGODZegna Suede Loafers 695.00 USD",
-            "image_url4": "https://fearofgod.com/collections/fear-of-god-zegna/products/fearofgodzegna-suede-loafers-1",
-            "detail4": "The classic Italian driving loafer reimagined through an American sportswear lens with a contrasting cream rubber sole and embossed Zegna logo on the heel, Leather laces, Embossed Zegna branding, Cream tpu sole, Suede leather, Made in Italy",
-            "product_name5": "FEAROFGODZegna Suede Sneakers 595.00 USD",
-            "image_url5": "https://fearofgod.com/collections/fear-of-god-zegna/products/fearofgodzegna-suede-sneakers?variant=32889333448765",
-            "details5": "A sophisticated modern update to a suede sneaker with a contrasting cream rubber sole and embossed Zegna logo on the heel, Zegna branding on tongue, Cream tpu sole, Zegna embossed logo, Suede leather, Made in Italy"
+            "name": "FEAROFGODZegna Espadrille 550.00 USD",
+            "image_url": "https://fearofgod.com/collections/fear-of-god-zegna/products/fearofgodzegna-espadrille-1",
+            "details": "The classic espadrille reinvented through an American sportswear lens with a contrasting cream rubber sole and embossed Zegna logo on the heel, Embossed Zegna branding, Cream tpu sole, Suede leather,Made in Italy"
+          },
+          {
+            "name": "FEAROFGODZegna Espadrille 550.00 USD",
+            "image_url": "https://fearofgod.com/collections/fear-of-god-zegna/products/fearofgodzegna-espadrille?variant=32889334038589",
+            "details": "The classic espadrille reinvented through an American sportswear lens with a contrasting cream rubber sole and embossed Zegna logo on the heel, Embossed Zegna branding, Cream tpu sole, Smooth leather, Made in Italy"
+          },
+          {
+            "name": "FEAROFGODZegna Suede Loafers 695.00 USD",
+            "image_url": "https://fearofgod.com/collections/fear-of-god-zegna/products/fearofgodzegna-suede-loafers?variant=32889333186621",
+            "details": "The classic Italian driving loafer reimagined through an American sportswear lens with a contrasting cream rubber sole and embossed Zegna logo on the heel, Leather laces, Embossed Zegna branding, Cream tpu sole, Suede leather, Made in Italy"
+          },
+          {
+            "name": "FEAROFGODZegna Suede Loafers 695.00 USD",
+            "image_url": "https://fearofgod.com/collections/fear-of-god-zegna/products/fearofgodzegna-suede-loafers-1",
+            "details": "The classic Italian driving loafer reimagined through an American sportswear lens with a contrasting cream rubber sole and embossed Zegna logo on the heel, Leather laces, Embossed Zegna branding, Cream tpu sole, Suede leather, Made in Italy"
           }
-        ],
-        "accessories": [
+        ]
+      },
+      {
+        "category": "Accessories",
+        "products": [
           {
-            "product_name1": "FEAROFGODZegna Cotton Baseball Cap 310.00 USD",
-            "image_url1": "https://fearofgod.com/collections/fear-of-god-zegna/products/fearofgodzegna-cotton-baseball-cap",
-            "detail1": "A baseball cap branded to celebrate the creative partnership between Ermenegildo Zegna and Fear of God. The 100% cotton hat is given a personalized velcro closure on back, Transfer print branding on front, Personalized velcro closure, 100% cotton, Made in Italy",
-            "product_name2": "FEAROFGODZegna Braided Leather Belt 550.00 USD",
-            "image_url2": "https://fearofgod.com/collections/fear-of-god-zegna/products/fearofgodzegna-braided-leather-belt",
-            "detail2": "An elongated braided leather belt in black smooth calfskin, 100% leather, Made in Italy",
-            "product_name3": "FEAROFGODZegna Silk Bandana 520.00 USD",
-            "image_url3": "https://fearofgod.com/collections/fear-of-god-zegna/products/fearofgodzegna-silk-bandana?variant=32889334661181",
-            "detail3": "A silk bandana branded to commemorate the creative partnership between Ermenegildo Zegna and Fear of God, 100% silk, Made in Italy",
-            "product_name4": "FEAROFGODZegna Wool Blanket 1,045.00 USD",
-            "image_url4": "https://fearofgod.com/collections/fear-of-god-zegna/products/fearofgodzegna-wool-blanket",
-            "detail4": "A wool and cashmere blanket branded in a bold new Zegna logo that has been redesigned and modernized through the Fear of God font face, Dimensions 200 x 137cm, Jacquard Zegna logo, 95%wool 5%cashmere, Made in Italy",
-            "product_name5": "String",
-            "image_url5": "String",
-            "details5": "String"
+            "name": "FEAROFGODZegna Cotton Baseball Cap 310.00 USD",
+            "image_url": "https://fearofgod.com/collections/fear-of-god-zegna/products/fearofgodzegna-cotton-baseball-cap",
+            "details": "A baseball cap branded to celebrate the creative partnership between Ermenegildo Zegna and Fear of God. The 100% cotton hat is given a personalized velcro closure on back, Transfer print branding on front, Personalized velcro closure, 100% cotton, Made in Italy"
+          },
+          {
+            "name": "FEAROFGODZegna Braided Leather Belt 550.00 USD",
+            "image_url": "https://fearofgod.com/collections/fear-of-god-zegna/products/fearofgodzegna-braided-leather-belt",
+            "details": "An elongated braided leather belt in black smooth calfskin, 100% leather, Made in Italy"
+          },
+          {
+            "name": "FEAROFGODZegna Silk Bandana 520.00 USD",
+            "image_url": "https://fearofgod.com/collections/fear-of-god-zegna/products/fearofgodzegna-silk-bandana?variant=32889334661181",
+            "details": "A silk bandana branded to commemorate the creative partnership between Ermenegildo Zegna and Fear of God, 100% silk, Made in Italy"
+          },
+          {
+            "name": "FEAROFGODZegna Wool Blanket 1,045.00 USD",
+            "image_url": "https://fearofgod.com/collections/fear-of-god-zegna/products/fearofgodzegna-wool-blanket",
+            "details": "A wool and cashmere blanket branded in a bold new Zegna logo that has been redesigned and modernized through the Fear of God font face, Dimensions 200 x 137cm, Jacquard Zegna logo, 95%wool 5%cashmere, Made in Italy"
           }
         ]
       }
@@ -176,176 +221,219 @@
     "link": "https://fearofgod.com/"
   },
   {
-    "logo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pentagram.com%2Fwork%2Fpyer-moss&psig=AOvVaw3UgQ4kitER0VkQBaoASiTB&ust=1605300808656000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOijxNXx_ewCFQAAAAAdAAAAABAD",
+    "logo": "https://pentagram-production.imgix.net/420bdc8a-e891-4da1-9506-5c907d2026ab/eo_pyermoss_02.jpg?rect=%2C%2C%2C&w=1500&crop=1&q=70&fm=jpg&auto=format&fit=crop&h=938&dpr=2",
     "brand_name": "Pyer Moss",
     "CEO": "Kerby Jean-Raymond",
     "type": "High Fashion/ Luxury",
     "price_point": "$$$$",
     "categories": [
       {
-        "tops": [
+        "category": "Tops",
+        "products": [
           {
-            "product_name1": "CLASSIC LOGO CROPPED HOODIE 250.00 USD",
-            "image_url1": "https://www.pyermoss.com/collections/pyer-moss-collection-3-5-mens-tops/products/cropped-logo-hoodie-french-terry-mint",
-            "detail1": "The cropped Collection hoodie features our signature boxy fit, kangaroo pocket, and embroidered Pyer Moss logo in the center. French Terry, Available in mint and black, Male model is 6'2 and wears a size M Female model is 5'10 and wears a size S.",
-            "product_name2": "BIOGRAPHY SHORT-SLEEVE TEE $150.00 USD",
-            "image_url2": "thttps://www.pyermoss.com/collections/pyer-moss-collection-3-5-mens-tops/products/biography-oversized-short-sleeve-shirt",
-            "detail2": "The Pyer Moss Bio tee is an oversized short sleeve shirt with text on the back and centered classic logo. Cotton, Male model is 6'2 and wears a size M, Female model is 5'10 and wears a size S.",
-            "product_name3": "CLASSIC LOGO OVERSIZED SHORT SLEEVE TEE 150.00 USD",
-            "image_url3": "https://www.pyermoss.com/collections/pyer-moss-collection-3-5-mens-tops/products/classic-logo-short-sleeve-tee-black-1",
-            "detail3": "The classic oversized short sleeve tee has three quarter length sleeves and Pyer Moss logo. 100% Cotton,Available in black and white, Male model is 6'2 and wears a size M, Female model is 5'10 and wears a size S",
-            "product_name4": "CLASSIC LOGO LONG-SLEEVE TURTLENECK 200.00 USD",
-            "image_url4": "https://www.pyermoss.com/collections/pyer-moss-collection-3-5-mens-tops/products/long-sleeve-turtleneck-white",
-            "detail4": "The long sleeve turtleneck is a classic and features our signature boxy fit. Cotton, Available in black and white, Male model is 6'2 and wears a size M, Female model is 5'10 and wears a size S",
-            "product_name5": "DENIM DUSTER 1,125.00 USD",
-            "image_url5": "https://www.pyermoss.com/collections/pyer-moss-collection-3-5-mens-outerwear/products/longline-denim-duster-correct-black-and-white-guitar-print",
-            "details5": "The long denim duster has a boxy silhouette that features all over original artwork. Denim. Made in New York, Male model is 6'2 and wears a size M, Please note that this item is made to order and will ship in 7-10 business days.*"
+            "name": "CLASSIC LOGO CROPPED HOODIE 250.00 USD",
+            "image_url": "https://www.pyermoss.com/collections/pyer-moss-collection-3-5-mens-tops/products/cropped-logo-hoodie-french-terry-mint",
+            "details": "The cropped Collection hoodie features our signature boxy fit, kangaroo pocket, and embroidered Pyer Moss logo in the center. French Terry, Available in mint and black, Male model is 6'2 and wears a size M Female model is 5'10 and wears a size S."
+          },
+          {
+            "name": "BIOGRAPHY SHORT-SLEEVE TEE $150.00 USD",
+            "image_url": "thttps://www.pyermoss.com/collections/pyer-moss-collection-3-5-mens-tops/products/biography-oversized-short-sleeve-shirt",
+            "details": "The Pyer Moss Bio tee is an oversized short sleeve shirt with text on the back and centered classic logo. Cotton, Male model is 6'2 and wears a size M"
+          },
+          {
+            "name": "CLASSIC LOGO OVERSIZED SHORT SLEEVE TEE 150.00 USD",
+            "image_url": "https://www.pyermoss.com/collections/pyer-moss-collection-3-5-mens-tops/products/classic-logo-short-sleeve-tee-black-1",
+            "details": "The classic oversized short sleeve tee has three quarter length sleeves and Pyer Moss logo. 100% Cotton,Available in black and white, Male model is 6'2 and wears a size M"
+          },
+          {
+            "name": "CLASSIC LOGO LONG-SLEEVE TURTLENECK 200.00 USD",
+            "image_url": "https://www.pyermoss.com/collections/pyer-moss-collection-3-5-mens-tops/products/long-sleeve-turtleneck-white",
+            "details": "The long sleeve turtleneck is a classic and features our signature boxy fit. Cotton, Available in black and white, Male model is 6'2 and wears a size M, Female model is 5'10 and wears a size S"
           }
-        ],
-        "bottoms": [
+        ]
+      },
+      {
+        "category": "Bottoms",
+        "products": [
           {
-            "product_name1": "DENIM JEAN 575.00 USD",
-            "image_url1": "https://www.pyermoss.com/collections/pyer-moss-collection-3-5-mens-pants/products/pleated-denim-jean-correct-black-and-white-guitar-print",
-            "detail1": "The guitar print straight leg pant features all over graphic with topstitch detailing and leather logo patch Male model is 6'2, Please note that this item is made to order and will ship in 4-6 weeks to produce.",
-            "product_name2": "CLASSIC GYM PANT 250.00 USD",
-            "image_url2": "https://www.pyermoss.com/collections/pyer-moss-collection-3-5-mens-pants/products/classic-gym-pant-pant-mint-bone",
-            "detail2": "The Pyer Moss track pant has a relaxed fit with embroidered Pyer Moss logo on both knees and drawcord. Nylon, Available in blue, black, and mint, Male model is 6'2 and wears a size M Female model is 5'10 and wears a size S.",
-            "product_name3": "CLASSIC GYM PANT 250.00 USD",
-            "image_url3": "https://www.pyermoss.com/collections/pyer-moss-collection-3-5-mens-pants/products/classic-gym-pant-pant-blue",
-            "detail3": "The Pyer Moss track pant has a relaxed fit with embroidered Pyer Moss logo on both knees and drawcord. Nylon, Available in blue, black, and mint, Male model is 6'2 and wears a size M, Female model is 5'10 and wears a size S.",
-            "product_name4": "ROCK Me TRACK PANT $350.00 USD",
-            "image_url4": "https://www.pyermoss.com/collections/pyer-moss-collection-3-5-mens-pants/products/rock-me-nylon-track-pant-mint-bone",
-            "detail4": "The Rock Me track pant has embroidered sound waves, signature Pyer Moss logo, with drawcord at the waist and zip pockets 100% Polyamide, Available in blue, black, and mint, Male model is 6'2 and wears a size M, Female model is 5'10 and wears a size S",
-            "product_name5": "String",
-            "image_url5": "https://www.pyermoss.com/collections/pyer-moss-collection-3-5-mens-pants/products/rock-me-nylon-track-pant-black",
-            "details5": "The Rock Me track pant has embroidered sound waves, signature Pyer Moss logo, with drawcord at the waist and zip pockets, 100% Polyamide, Available in blue, black, and mint, Male model is 6'2 and wears a size M,Female model is 5'10 and wears a size S."
+            "name": "DENIM JEAN 575.00 USD",
+            "image_url": "https://www.pyermoss.com/collections/pyer-moss-collection-3-5-mens-pants/products/pleated-denim-jean-correct-black-and-white-guitar-print",
+            "details": "The guitar print straight leg pant features all over graphic with topstitch detailing and leather logo patch Male model is 6'2, Please note that this item is made to order and will ship in 4-6 weeks to produce."
+          },
+          {
+            "name": "ROCK Me TRACK PANT $350.00 USD",
+            "image_url": "https://www.pyermoss.com/collections/pyer-moss-collection-3-5-mens-pants/products/rock-me-nylon-track-pant-mint-bone",
+            "details": "The Rock Me track pant has embroidered sound waves, signature Pyer Moss logo, with drawcord at the waist and zip pockets 100% Polyamide, Available in blue, black, and mint, Male model is 6'2 and wears a size M, Female model is 5'10 and wears a size S"
+          },
+          {
+            "name": "CLASSIC GYM PANT 250.00 USD",
+            "image_url": "https://www.pyermoss.com/collections/pyer-moss-collection-3-5-mens-pants/products/classic-gym-pant-pant-blue",
+            "details": "The Pyer Moss track pant has a relaxed fit with embroidered Pyer Moss logo on both knees and drawcord. Nylon, Available in blue, black, and mint, Male model is 6'2 and wears a size M, Female model is 5'10 and wears a size S."
+          },
+          {
+            "name": "CLASSIC GYM PANT 250.00 USD",
+            "image_url": "https://www.pyermoss.com/collections/pyer-moss-collection-3-5-mens-pants/products/classic-gym-pant-pant-blue",
+            "details": "The Pyer Moss track pant has a relaxed fit with embroidered Pyer Moss logo on both knees and drawcord. Nylon, Available in blue, black, and mint, Male model is 6'2 and wears a size M, Female model is 5'10 and wears a size S."
           }
-        ],
-        "shoes": [
+        ]
+      },
+      {
+        "category": "Shoes",
+        "products": [
           {
-            "product_name1": "PYTHON CHELSEA BOOT 895 USD",
-            "image_url1": "https://www.pyermoss.com/collections/pyer-moss-collection-3-5-mens-footwear/products/mens-boot-black",
-            "detail1": "In collaboration with Brother Vellies, our Chelsea boot features python embossed calfskin panels, pointed toe, and block heel,Also available in white.",
-            "product_name2": "PYTHON CHELSEA BOOT 895.00 USD",
-            "image_url2": "https://www.pyermoss.com/collections/pyer-moss-collection-3-5-mens-footwear/products/mens-boot-white",
-            "detail2": "In collaboration with Brother Vellies, our Chelsea boot features python embossed calfskin panels, pointed toe, and block heel",
-            "product_name3": "THE SCULPT $595.00 USD",
-            "image_url3": "https://www.pyermoss.com/collections/pyer-moss-collection-3-5-mens-footwear/products/copy-of-the-sculpt-dummy-1",
-            "detail3": "Due to high demand and COVID distancing guidelines, there may be additional delays in shipping, Flipping design lines and embodying the Pyer Moss design language, The Sculpt brings a futuristic approach in thought and gesture through its bottom proportions. The upper made of suede, mesh and Pyer Moss’ signature contrast white topstitch, connects the design to our current reality of extreme contrasts made beautiful, Shoes are true to size and run in US Men. For Women sizing, please go two sizes down. We recommend sizing up if you are in-between sizes.",
-            "product_name4": "String",
-            "image_url4": "String",
-            "detail4": "String",
-            "product_name5": "String",
-            "image_url5": "String",
-            "details5": "String"
+            "name": "PYTHON CHELSEA BOOT 895 USD",
+            "image_url": "https://www.pyermoss.com/collections/pyer-moss-collection-3-5-mens-footwear/products/mens-boot-black",
+            "details": "In collaboration with Brother Vellies, our Chelsea boot features python embossed calfskin panels, pointed toe, and block heel,Also available in white."
+          },
+          {
+            "name": "PYTHON CHELSEA BOOT 895.00 USD",
+            "image_url": "https://www.pyermoss.com/collections/pyer-moss-collection-3-5-mens-footwear/products/mens-boot-white",
+            "details": "In collaboration with Brother Vellies, our Chelsea boot features python embossed calfskin panels, pointed toe, and block heel"
+          },
+          {
+            "name": "THE SCULPT $595.00 USD",
+            "image_url": "https://www.pyermoss.com/collections/pyer-moss-collection-3-5-mens-footwear/products/copy-of-the-sculpt-dummy-1",
+            "details": "Due to high demand and COVID distancing guidelines, there may be additional delays in shipping, Flipping design lines and embodying the Pyer Moss design language, The Sculpt brings a futuristic approach in thought and gesture through its bottom proportions. The upper made of suede, mesh and Pyer Moss’ signature contrast white topstitch, connects the design to our current reality of extreme contrasts made beautiful, Shoes are true to size and run in US Men. For Women sizing, please go two sizes down. We recommend sizing up if you are in-between sizes."
+          },
+          {
+            "name": "String",
+            "image_url": "String",
+            "details": "String"
           }
-        ],
-        "accessories": [
+        ]
+      },
+      {
+        "category": "Accessories",
+        "products": [
           {
-            "product_name1": "String",
-            "image_url1": "https://www.pyermoss.com/collections/pyer-moss-collection-3-5-mens-accessories/products/mask-3-pack-true-black",
-            "detail1": "Face mask with Pyer Moss logo, and double strap. Face mask with Pyer Moss logo, and double strap. Wear independently or as a cover for an N95 mask to extend its life. PLEASE NOTE that these masks are NOT substitutes for medical-grade equipment and are not FDA approved. One size fits all adults - not sized for children. Cotton, Available in black and yellow, Masks come in a pack of three. ALL SALES FINAL, Please note that this item is made to order and will ship in 7-10 business days, Back to Pyer Moss - Collection 3 - Mens - Accessories",
-            "product_name2": "FACE MASK (PACK OF 3) 50",
-            "image_url2": "https://www.pyermoss.com/collections/pyer-moss-collection-3-5-mens-accessories/products/mask-3-pack-correct-pm-yellow-mask",
-            "detail2": "Face mask with Pyer Moss logo, and double strap. Face mask with Pyer Moss logo, and double strap. Wear independently or as a cover for an N95 mask to extend its life. PLEASE NOTE that these masks are NOT substitutes for medical-grade equipment and are not FDA approved. One size fits all adults - not sized for children. Cotton, Available in black and yellow, Masks come in a pack of three. ALL SALES FINAL, Please note that this item is made to order and will ship in 7-10 business days, Back to Pyer Moss - Collection 3 - Mens - Accessories",
-            "product_name3": "String",
-            "image_url3": "String",
-            "detail3": "String",
-            "product_name4": "String",
-            "image_url4": "String",
-            "detail4": "String",
-            "product_name5": "String",
-            "image_url5": "String",
-            "details5": "String"
+            "name": "FACE MASK (PACK OF 3) 50",
+            "image_url": "https://www.pyermoss.com/collections/pyer-moss-collection-3-5-mens-accessories/products/mask-3-pack-true-black",
+            "details": "Face mask with Pyer Moss logo, and double strap. Face mask with Pyer Moss logo, and double strap. Wear independently or as a cover for an N95 mask to extend its life. PLEASE NOTE that these masks are NOT substitutes for medical-grade equipment and are not FDA approved. One size fits all adults - not sized for children. Cotton, Available in black and yellow, Masks come in a pack of three. ALL SALES FINAL, Please note that this item is made to order and will ship in 7-10 business days, Back to Pyer Moss - Collection 3 - Mens - Accessories"
+          },
+          {
+            "name": "FACE MASK (PACK OF 3) 50",
+            "image_url": "https://www.pyermoss.com/collections/pyer-moss-collection-3-5-mens-accessories/products/mask-3-pack-correct-pm-yellow-mask",
+            "details": "Face mask with Pyer Moss logo, and double strap. Face mask with Pyer Moss logo, and double strap. Wear independently or as a cover for an N95 mask to extend its life. PLEASE NOTE that these masks are NOT substitutes for medical-grade equipment and are not FDA approved. One size fits all adults - not sized for children. Cotton, Available in black and yellow, Masks come in a pack of three. ALL SALES FINAL, Please note that this item is made to order and will ship in 7-10 business days, Back to Pyer Moss - Collection 3 - Mens - Accessories"
+          },
+          {
+            "name": "String",
+            "image_url": "String",
+            "details": "String"
+          },
+          {
+            "name": "String",
+            "image_url": "String",
+            "details": "String"
           }
         ]
       }
     ],
     "link": "https://www.pyermoss.com/"
   },
-
   {
-    "logo": "https://www.google.com/url?sa=i&url=http%3A%2F%2Ffw18-campaign.dailypaperclothing.com%2F&psig=AOvVaw0jLjxMWdjqzlqwz9AdCvd4&ust=1605309789625000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDVxZKT_uwCFQAAAAAdAAAAABAI",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQILWXWYS3VKO6HX3tLDJzL821nTEEUpGXf9g&usqp=CAU",
     "brand_name": "Daily Paper",
     "CEO": "Husssein Suleiman, Abderrahmane Trabsini, Jefferson Osei",
     "type": "High Fashion/ Accessible Streetwear",
     "price_point": "$$",
     "categories": [
       {
-        "tops": [
+        "category": "Tops",
+        "products": [
           {
-            "product_name1": "Black Fadu Jiggy Sweater 121.00 USD",
-            "image_url1": "https://www.dailypaperclothing.com/collections/sweaters/products/black-fadu-jiggy-sweater?variant=17743827370055",
-            "detail1": "Cut to an oversized drop shouldered crew neck silhouette, the Fadu Sweater receives a collaborative update. The comfy sweater is made from 100% heavyweight cotton and features a branded graphic on the wearer’s chest. For an added detail, the sweater is finished off with a ribbed neck, cuffs and low-hanging waistband",
-            "product_name2": "Grey Violet Jerspla Sweater 176.00 USD",
-            "image_url2": "https://www.dailypaperclothing.com/collections/sweaters/products/grey-violet-jerspla-sweater?variant=34681821331590",
-            "detail2": "State-of-the-art dyeing techniques and classic sportswear silhouettes meet on this sweatshirt which is dyed using the innovative rain wash dying technique. Cut from a soft French terry cloth with ribbed cuffs and hem, this sweater was designed with comfort in mind. Cut with drop shoulders it has a contemporary oversized fit and features retro logo embroidery on the chest.",
-            "product_name3": "White Van Jorwhi T-Shirt 77.00 USD",
-            "image_url3": "https://www.dailypaperclothing.com/collections/t-shirts/products/white-van-jorwhi-t-shirt?variant=34750501257350",
-            "detail3": "Part of our second collaboration with the Van Gogh Museum, this t-shirt features a custom diptych graphic composed of the Dutch artist's 'Small Pear Tree in Blossom' and 'Baskets with Pansies'. Reproduced using a high-definition and ultra-bright rubber printing technique for maximum clarity and vibrancy. Constructed from a premium jersey and finished with our collaborative branding at the nape of the neck.",
-            "product_name4": "Mauve Pink Alias T-Shirt 55.00 USD",
-            "image_url4": "https://www.dailypaperclothing.com/collections/t-shirts/products/mauve-pink-alias-t-shirt?variant=34681840369798",
-            "detail4": "A versatile wardrobe essential, our rendition of the basic t-shirt is now available in perfect pastel colourways. Crafted from premium heavyweight cotton with a loose ribbed collar, this tee has a high-quality look and feel without compromising on breathability and comfort. With a classic t-shirt shape and cut, it's guaranteed to be an indispensable layering piece.",
-            "product_name5": "Acid Lime Jorspla T-Shirt 88.00 USD",
-            "image_url5": "https://www.dailypaperclothing.com/collections/t-shirts/products/acid-lime-jorspla-t-shirt?variant=34681817890950",
-            "details5": "State-of-the-art dyeing techniques and premium basics meet on this tee which is dyed using the innovative rain wash dying technique. Cut from a soft heavyweight cotton with a ribbed collar, this tee was designed with comfort in mind. Comes in a classic fit so size up for a more oversized silhouette. Dyed an eye-catching acid green and features retro logo embroidery on the chest"
+            "name": "Black Fadu Jiggy Sweater 121.00 USD",
+            "image_url": "https://www.dailypaperclothing.com/collections/sweaters/products/black-fadu-jiggy-sweater?variant=17743827370055",
+            "details": "Cut to an oversized drop shouldered crew neck silhouette, the Fadu Sweater receives a collaborative update. The comfy sweater is made from 100% heavyweight cotton and features a branded graphic on the wearer’s chest. For an added detail, the sweater is finished off with a ribbed neck, cuffs and low-hanging waistband"
+          },
+          {
+            "name": "Grey Violet Jerspla Sweater 176.00 USD",
+            "image_url": "https://www.dailypaperclothing.com/collections/sweaters/products/grey-violet-jerspla-sweater?variant=34681821331590",
+            "details": "State-of-the-art dyeing techniques and classic sportswear silhouettes meet on this sweatshirt which is dyed using the innovative rain wash dying technique. Cut from a soft French terry cloth with ribbed cuffs and hem, this sweater was designed with comfort in mind. Cut with drop shoulders it has a contemporary oversized fit and features retro logo embroidery on the chest."
+          },
+          {
+            "name": "White Van Jorwhi T-Shirt 77.00 USD",
+            "image_url": "https://www.dailypaperclothing.com/collections/t-shirts/products/white-van-jorwhi-t-shirt?variant=34750501257350",
+            "details": "Part of our second collaboration with the Van Gogh Museum, this t-shirt features a custom diptych graphic composed of the Dutch artist's 'Small Pear Tree in Blossom' and 'Baskets with Pansies'. Reproduced using a high-definition and ultra-bright rubber printing technique for maximum clarity and vibrancy. Constructed from a premium jersey and finished with our collaborative branding at the nape of the neck."
+          },
+          {
+            "name": "Mauve Pink Alias T-Shirt 55.00 USD",
+            "image_url": "https://www.dailypaperclothing.com/collections/t-shirts/products/mauve-pink-alias-t-shirt?variant=34681840369798",
+            "details": "A versatile wardrobe essential, our rendition of the basic t-shirt is now available in perfect pastel colourways. Crafted from premium heavyweight cotton with a loose ribbed collar, this tee has a high-quality look and feel without compromising on breathability and comfort. With a classic t-shirt shape and cut, it's guaranteed to be an indispensable layering piece."
           }
-        ],
-        "bottoms": [
+        ]
+      },
+      {
+        "category": "Bottoms",
+        "products": [
           {
-            "product_name1": "Comic Print Jarzeb Pants 165.00 USD",
-            "image_url1": "https://www.dailypaperclothing.com/collections/pants/products/comic-print-jarzeb-pants?variant=34681824575622",
-            "detail1": "With a unique allover comic book print, this jacket features the layout of the Comic Book created as part of the FW20 season. Washed for a softer on-skin feel, these straight legged 5-pocket jeans retain authentic details like donut buttons and rivet reinforcements. Best worn with matching Jarzeb Comic jacket for the full Comic Book look",
-            "product_name2": "Floral Van Josha Pants 154.00 USD",
-            "image_url2": "https://www.dailypaperclothing.com/collections/pants/products/floral-van-josha-pants?variant=34750506008710",
-            "detail2": "Part of our second collaboration with the Van Gogh Museum, these classic 5-pocket denim jeans feature one of the Dutch artist's floral compositions masterfully recreated on the front panels using state-of-the-art digital printing techniques. Cut from a rinse washed heavy denim in a cropped ankle length, these jeans are finished with a custom DP x VGM PU leather patch detail at the rear.",
-            "product_name3": "Cargo Pants Beige 110.00 USD",
-            "image_url3": "https://www.dailypaperclothing.com/collections/pants/products/cargo-pants-beige?variant=1016608948245",
-            "detail3": "The Cargo Pants are made in a classic Daily Paper pants silhouette and feature a comfortable fit. The pants are made out of fine soft cotton and have two front pockets and two back pockets for storing all your accessories.",
-            "product_name4": "Washed Essential Jiggy Sweatpants 143.00 USD",
-            "image_url4": "https://www.dailypaperclothing.com/collections/pants/products/washed-essential-jiggy-sweatpants?variant=17796702109767",
-            "detail4": "Designed in the classic silhouette, the Jiggy Sweatpants receives a collaborative update through a unique acid wash design. The comfy pants feature an elasticated waistband with an adjustable drawcord and two functional side pockets. The premium cotton is topped with a printed branded graphic on the wearer’s left thigh. Pair with the washed Fadu Sweater for the complete look.",
-            "product_name5": "Grey Lilac Teal Juka Pants 176.00 USD",
-            "image_url5": "https://www.dailypaperclothing.com/collections/pants/products/grey-lilac-teal-juka-pants?variant=34681825198214",
-            "details5": "A contemporary take on a classic trackpant featuring asymmetric panels of neutral greys, pastel lilac and teal overlaid on technical black nylon. This retro activewear is cut with a classic fit for unhindered movement and can be secured at the waist using a drawcord complete with metal branded lace tips. Pair this luxury track pant with the matching Jasah jacket for a retro-futuristic athletic sportswear aesthetic."
+            "name": "Comic Print Jarzeb Pants $165.00USD",
+            "image_url": "https://www.dailypaperclothing.com/collections/pants/products/comic-print-jarzeb-pants?variant=34681824575622",
+            "details": "With a unique allover comic book print, this jacket features the layout of the Comic Book created as part of the FW20 season. Washed for a softer on-skin feel, these straight legged 5-pocket jeans retain authentic details like donut buttons and rivet reinforcements. Best worn with matching Jarzeb Comic jacket for the full Comic Book look.Cut to an oversized drop shouldered crew neck silhouette, the Fadu Sweater receives a collaborative update. The comfy sweater is made from 100% heavyweight cotton and features a branded graphic on the wearer’s chest. For an added detail, the sweater is finished off with a ribbed neck, cuffs and low-hanging waistband"
+          },
+          {
+            "name": "Cargo Pants Olive Green $110.00 USD",
+            "image_url": "https://www.dailypaperclothing.com/collections/pants/products/cargo-pants-olive-green?variant=1016604393493",
+            "details": "The Cargo Pants are made in a classic Daily Paper pants silhouette and feature a comfortable fit. The pants are made out of fine soft cotton and have two front pockets and two back pockets for storing all your accessories"
+          },
+          {
+            "name": "Black Jamid Pants $165.00 USD",
+            "image_url": "https://www.dailypaperclothing.com/collections/pants/products/black-jamid-pants?variant=34681823625350",
+            "details": "Mixing the razor-sharp aesthetic of tailoring with the laidback luxury of loungewear, these trousers are crafted from a silky lightweight polyester that's sharp enough for formal occasions with striped detailing. Cut with a high-waist and a loose leg, these pants are ideal for relaxing or travelling in too. Comes with two side pockets and a single rear pocket with seasonal woven label."
+          },
+          {
+            "name": "Forest Green Alias Sweatpants $121.00 USD",
+            "image_url": "https://www.dailypaperclothing.com/collections/pants/products/forest-green-alias-track-pants?variant=34681842958470",
+            "details": "These pants fuse the everyday comfort of sportswear with the sophisticated aesthetic of formalwear. Made with premium heavyweight cotton like a classic sweatpant, but constructed with the razor sharp cut of relaxed tailoring, these trousers transition seamlessly from more relaxed surroundings to formal contexts. An adjustable waistband maintains a comfortable fit around the waist, while the elasticated cuffs allow the hems to sit perfectly at the ankles. Featuring script branding down one side."
           }
-        ],
-        "shoes": [
+        ]
+      },
+      {
+        "category": "Shoes",
+        "products": [
           {
-            "product_name1": "White Reslider Sandals 66.00 USD",
-            "image_url1": "https://www.dailypaperclothing.com/collections/all/products/white-reslider-sandals?variant=31790857420934",
-            "detail1": "A modern classic, the Reslider Sandals are a must-have of any summer wardrobe. The moulded footbed provides optimal support and the premium padded strap guarantees comfort for everyday use. This easy to pair piece is finished with the reinvented new Daily Paper Shield Logo.",
-            "product_name2": "Black Reslider Sandals 66.00 USD",
-            "image_url2": "https://www.dailypaperclothing.com/collections/all/products/black-reslider-sandals?variant=31790847852678",
-            "detail2": "A modern classic, the Reslider Sandals are a must-have of any summer wardrobe. The moulded footbed provides optimal support and the premium padded strap guarantees comfort for everyday use. This easy to pair piece is finished with the reinvented new Daily Paper Shield Logo.",
-            "product_name3": "String",
-            "image_url3": "String",
-            "detail3": "String",
-            "product_name4": "String",
-            "image_url4": "String",
-            "detail4": "String",
-            "product_name5": "String",
-            "image_url5": "String",
-            "details5": "String"
+            "name": "White Reslider Sandals 66.00 USD",
+            "image_url": "https://www.dailypaperclothing.com/collections/all/products/white-reslider-sandals?variant=31790857420934",
+            "details": "A modern classic, the Reslider Sandals are a must-have of any summer wardrobe. The moulded footbed provides optimal support and the premium padded strap guarantees comfort for everyday use. This easy to pair piece is finished with the reinvented new Daily Paper Shield Logo."
+          },
+          {
+            "name": "Black Reslider Sandals 66.00 USD",
+            "image_url": "https://www.dailypaperclothing.com/collections/all/products/black-reslider-sandals?variant=31790847852678",
+            "details": "A modern classic, the Reslider Sandals are a must-have of any summer wardrobe. The moulded footbed provides optimal support and the premium padded strap guarantees comfort for everyday use. This easy to pair piece is finished with the reinvented new Daily Paper Shield Logo."
+          },
+          {
+            "name": "String",
+            "image_url": "String",
+            "details": "String"
+          },
+          {
+            "name": "String",
+            "image_url": "String",
+            "details": "String"
           }
-        ],
-        "accessories": [
+        ]
+      },
+      {
+        "category": "Accessories",
+        "products": [
           {
-            "product_name1": "DP Mask 17.00 USD",
-            "image_url1": "https://www.dailypaperclothing.com/collections/accessories/products/dp-mask?variant=34881166147718",
-            "detail1": "The Daily Paper non-medical masks are made from two layers of organic cotton with a certified anti-bacterial treatment, providing protection for up to 15 washes.",
-            "product_name2": "Black Classic Waist Pack V2 55.00 USD",
-            "image_url2": "https://www.dailypaperclothing.com/collections/accessories/products/black-classic-waist-pack-v2?variant=34881170931846",
-            "detail2": "This classic Waist Pack contains a main pocket, a medium-sized pocket and a small pocket on the front. For extra functionality, a pocket is located at the back. Permits a secure fit whether worn in the front, back or askew, with the adjustable strap with buckle closure. Completed with the woven Daily Paper label on the front.",
-            "product_name3": "Black White Jaylie Cap 110.00 USD",
-            "image_url3": "https://www.dailypaperclothing.com/collections/accessories/products/black-white-jaylie-cap?variant=34881165820038",
-            "detail3": "This contemporary headwear piece fuses a baseball cap with the aesthetics of a headscarf and features elongated panels at the side that hang down to the shoulders providing protection from bad weather. The stretch poly fabric comes with an adjustable strap complete with branded metal buckle for a snug fit. Constructed from a houndstooth fabric for a traditional tailoring spin on a sportswear classic.",
-            "product_name4": "Black Effer Scarf 88.00 USD",
-            "image_url4": "https://www.dailypaperclothing.com/collections/accessories/products/black-effer-scarf?variant=34881165787270",
-            "detail4": "This black quilted scarf with rectangular design fastens through the opening and provides extra warmth through the padded lining. The long style of the scarf allows you to wear it to your personal preference",
-            "product_name5": "Black Ehamea Bag 88.00 USD",
-            "image_url5": "https://www.dailypaperclothing.com/collections/accessories/products/black-ehamea-bag?variant=34881165262982",
-            "details5": "A classic fanny pack style bag reengineered as a shoulder bag. Crafted from a silky soft yet robust synthetic, the bag features two zipped pockets for easy hands-free storage and a metal logo in the front. A removable 'DAILY PAPER' branded strap allows the bag to be worn round the waist, under the shoulder or across the body for easy on-the-go adjustments to get a comfortable fit."
+            "name": "DP Mask 17.00 USD",
+            "image_url": "https://www.dailypaperclothing.com/collections/accessories/products/dp-mask?variant=34881166147718",
+            "details": "The Daily Paper non-medical masks are made from two layers of organic cotton with a certified anti-bacterial treatment, providing protection for up to 15 washes."
+          },
+          {
+            "name": "Black Classic Waist Pack V2 55.00 USD",
+            "image_url": "https://www.dailypaperclothing.com/collections/accessories/products/black-classic-waist-pack-v2?variant=34881170931846",
+            "details": "This classic Waist Pack contains a main pocket, a medium-sized pocket and a small pocket on the front. For extra functionality, a pocket is located at the back. Permits a secure fit whether worn in the front, back or askew, with the adjustable strap with buckle closure. Completed with the woven Daily Paper label on the front."
+          },
+          {
+            "name": "Black White Jaylie Cap 110.00 USD",
+            "image_url": "https://www.dailypaperclothing.com/collections/accessories/products/black-white-jaylie-cap?variant=34881165820038",
+            "details": "This contemporary headwear piece fuses a baseball cap with the aesthetics of a headscarf and features elongated panels at the side that hang down to the shoulders providing protection from bad weather. The stretch poly fabric comes with an adjustable strap complete with branded metal buckle for a snug fit. Constructed from a houndstooth fabric for a traditional tailoring spin on a sportswear classic."
+          },
+          {
+            "name": "Black Effer Scarf 88.00 USD",
+            "image_url": "https://www.dailypaperclothing.com/collections/accessories/products/black-effer-scarf?variant=34881165787270",
+            "details": "This black quilted scarf with rectangular design fastens through the opening and provides extra warmth through the padded lining. The long style of the scarf allows you to wear it to your personal preference"
           }
         ]
       }

@@ -7,80 +7,116 @@
         "price_point": "$$$$",
         "categories": [
             {
-                "tops": [
+                "category": "Tops",
+                "products": [
                     {
-                        "product_name1": "OVERSIZED PRINTED HOODIE `NO ALTERNATIVE HI-LIFE` Tangerine 300.00 USD",
-                        "image_url1": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dw982fd49e/product/image/R0347C4PR/800/5x6/oversized-printed-hoodie-no-alternative-hi-life-tangerine-1_748w.jpg",
-                        "detail1": "Oversized hoodie in Psychedelic jersey ,Light Light blue and purple gradient print in the back reading `No Alternative Hi-Life. 2am. Live on FENTY.com` ,FENTY-engraved metal cord end-pieces in brushed steel finishing ,Tonal FENTY embroidery on the hood ,Unisex style ,This style is meant to be oversized. If you wish to wear it in a more fitted way, pick one size smaller than usual ,100% cotton ,Made in Portugal ,Nelly is 177 cm and is wearing size S",
-                        "product_name2": "XLONG SLEEVE STRETCH TULLE T-SHIRT Purple Flame 300.00 USD",
-                        "image_url2": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dw73020e2e/product/image/R0349P2PR/800/5x6/xlong-sleeve-stretch-tulle-t-shirt-purple-flame-1_748w.jpg",
-                        "detail2": "T-shirt in Purple Flame striped print ,Extra long sleeves meant to be worn pleated on the wrists ,Body-hugging fit ,Crew neckline ,Each piece of this style is unique. Random placement of the print allows individuality, meaning the pattern and colors of this style could vary from one piece to another. ,Main fabric: 93% polyamide 7% elastane ,Second fabric: 95% polyester 5% elastane ,Made in Italy ,Nelly is 177 cm and is wearing size 36",
-                        "product_name3": "OVERSIZED DENIM JACKET Coco White or Indigo 1,100.00 USD",
-                        "image_url3": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dw3a67155f/product/image/R0011C5WS/410/5x6/oversized-denim-jacket-indigo-1_748w.jpg",
-                        "detail3": "This style is meant to be oversized. If you wish to wear it in a more fitted way, pick one size smaller than usual. ,Oversized denim jacket in Indigo ,Front zipper and monogrammed snap buttons ,Two gusseted flap pockets on the chest and one on each sleeve ,Oversized gusset in the back ,Pointy collar ,Contrast topstitching ,FENTY-engraved buttons and rivets ,Unisex style ,100% cotton ,Made in Italy ,The model is 174 cm and is wearing size S",
-                        "product_name4": "OFF SHOULDER SHEER DRESS Jet Black 660.00 USD",
-                        "image_url4": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dwf6a02bbd/product/image/R0300S2CL/001/5x6/off-shoulder-sheer-dress-jet-black-1_748w.jpg",
-                        "detail4": "Midi dress in Jet Black sheer silk ,Asymmetrical cut with a strap falling down on the left shoulder ,Pointy cut at the bottom of the dress ,100% silk ,Made in Italy ,Anab is 179 cm and is wearing size 36",
-                        "product_name5": "TRENCH-INSPIRED PARKA Camo Green & Beige or Burnt Orange 1,660.00 USD",
-                        "image_url5": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dw5269cb42/product/image/R0267C5CL/250/5x6/trench-inspired-parka-camo-green-beige-1_748w.jpg",
-                        "detail5": "Parka and trench mix long coat ,Dual-fabric and bicolor construction in Camo Green and Beige ,Straight oversized fit ,Front zipper and monogrammed snap buttons ,Long sleeves with slouchy shoulders ,Unisex style ,Main fabric: 64% cotton 36% nylon ,Second fabric: 100% cotton ,Made in Slovakia ,This style is meant to be worn oversized. If you wish to wear it tighter, pick one size smaller than usual. ,The model is 180 cm and is wearing size S"
+                        "name": "OVERSIZED PRINTED HOODIE `NO ALTERNATIVE HI-LIFE` Tangerine 300.00 USD",
+                        "image_url": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dw982fd49e/product/image/R0347C4PR/800/5x6/oversized-printed-hoodie-no-alternative-hi-life-tangerine-1_748w.jpg",
+                        "details": "Oversized hoodie in Psychedelic jersey, Light blue and purple gradient print in the back reading `No Alternative Hi-Life. 2am. Live on FENTY.com`, FENTY-engraved metal cord end-pieces in brushed steel finishing, Tonal FENTY embroidery on the hood, Unisex style, This style is meant to be oversized. If you wish to wear it in a more fitted way, pick one size smaller than usual, 100% cotton, Made in Portugal"
+                    },
+                    {
+                        "name": "XLONG SLEEVE STRETCH TULLE T-SHIRT Purple Flame 300.00 USD",
+                        "image_url": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dw73020e2e/product/image/R0349P2PR/800/5x6/xlong-sleeve-stretch-tulle-t-shirt-purple-flame-1_748w.jpg",
+                        "details": "T-shirt in Purple Flame striped print, Extra long sleeves meant to be worn pleated on the wrists, Body-hugging fit, Crew neckline, Each piece of this style is unique. Random placement of the print allows individuality, meaning the pattern and colors of this style could vary from one piece to another, Main fabric: 93% polyamide 7% elastane, Second fabric: 95% polyester 5% elastane, Made in Italy"
+                    },
+                    {
+                        "name": "OVERSIZED DENIM JACKET Coco White or Indigo 1,100.00 USD",
+                        "image_url": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dw3a67155f/product/image/R0011C5WS/410/5x6/oversized-denim-jacket-indigo-1_748w.jpg",
+                        "details": "This style is meant to be oversized. If you wish to wear it in a more fitted way, pick one size smaller than usual, Oversized denim jacket in Indigo, Front zipper and monogrammed snap buttons, Two gusseted flap pockets on the chest and one on each sleeve, Oversized gusset in the back, Pointy collar, Contrast topstitching, FENTY-engraved buttons and rivets, Unisex style, 100% cotton, Made in Italy"
+                    },
+                    {
+                        "name": "OFF SHOULDER SHEER DRESS Jet Black 660.00 USD",
+                        "image_url": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dwf6a02bbd/product/image/R0300S2CL/001/5x6/off-shoulder-sheer-dress-jet-black-1_748w.jpg",
+                        "details": "Midi dress in Jet Black sheer silk, Asymmetrical cut with a strap falling down on the left shoulder, Pointy cut at the bottom of the dress, 100% silk, Made in Italy"
+                    },
+                    {
+                        "name": "TRENCH-INSPIRED PARKA Camo Green & Beige or Burnt Orange 1,660.00 USD",
+                        "image_url": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dw5269cb42/product/image/R0267C5CL/250/5x6/trench-inspired-parka-camo-green-beige-1_748w.jpg",
+                        "details": "Parka and trench mix long coat, Dual-fabric and bicolor construction in Camo Green and Beige, Straight oversized fit, Front zipper and monogrammed snap buttons, Long sleeves with slouchy shoulders, Unisex style, Main fabric: 64% cotton 36% nylon, Second fabric: 100% cotton, Made in Slovakia, This style is meant to be worn oversized. If you wish to wear it tighter, pick one size smaller than usual"
                     }
                 ],
-                "bottoms": [
+                "category": "Bottoms",
+                "products": [
                     {
-                        "product_name1": "PRINTED XLONG LEGGINGS Psychedelic 300.00 USD",
-                        "image_url1": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dwcedb9a53/product/image/R0319V2PR/300/5x6/printed-xlong-leggings-psychedelic-1_748w.jpg",
-                        "detail1": "Leggings in Psychedelic print ,Extra long legs meant to be worn pleated to cover your shoes ,Body-hugging fit ,Mid-rise cut ,95% viscose, 5% elastane ,Made in Tunisia ,Each piece of this style is unique. Random placement of the print allows individuality, meaning the pattern and colors of this style could vary from one piece to another. ,Anab is 179 cm and is wearing size S",
-                        "product_name2": "JERSEY JOGGERS Jet Black or Tangerine 280.00 USD",
-                        "image_url2": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dw78c642c3/product/image/R0346C4CL/001/5x6/jersey-joggers-jet-black-1_748w.jpg",
-                        "detail2": "Cotton jersey sweatpants in Jet Black ,Mid-rise cut ,Tonal drawstring at the waist ,Two side pockets and one back pocket ,Unisex style ,Tonal FENTY embroidery on the left side ,Tonal monogram embroidery below the right pocket ,100% cotton ,Made in Portugal ,Emmanuelle is 178 cm and is wearing size S ,Franck is 180 cm and is wearing size M",
-                        "product_name3": "Super Mini Denim Shorts Indigo 220.00 USD",
-                        "image_url3": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dw75a52497/product/image/R0293C5CL/410/5x6/super-mini-denim-shorts-indigo-1_748w.jpg",
-                        "detail3": "Super mini denim shorts in Indigo ,5-pocket styling ,Contrast topstitching ,Mid-rise cut ,98% cotton, 2% elastane ,Made in Tunisia ,The model is 179 cm and is wearing size 36",
-                        "product_name4": "XLONG WIDE SATIN PANTS Jet Black 970.00 USD",
-                        "image_url4": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dwf63096a2/product/image/R0239A4CL/001/5x6/xlong-wide-satin-pants-jet-black-1_748w.jpg",
-                        "detail4": "Wide leg pants in Jet Black satin ,High rise cut ,Front zipper with closing hooks ,Belt loops ,One back pocket with piping ,66% acetate, 34% viscose ,Made in Slovakia ,The model is 180 cm and is wearing size 36",
-                        "product_name5": "DENIM CORSET SKIRT Coco White or Indigo 360.00 USD",
-                        "image_url5": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dw51bdecb3/product/image/R0016C5WS/100/5x6/denim-corset-skirt-coco-white-1_748w.jpg",
-                        "detail5": "Denim mini skirt in Coco White ,Fitted cut ,Curved side cut-outs ,Tonal topstitching ,FENTY-engraved button ,Belt loops ,100% cotton ,Made in Italy ,The model is 177 cm and is wearing size 36"
+                        "name": "PRINTED XLONG LEGGINGS Psychedelic 300.00 USD",
+                        "image_url": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dwcedb9a53/product/image/R0319V2PR/300/5x6/printed-xlong-leggings-psychedelic-1_748w.jpg",
+                        "details": "Leggings in Psychedelic print, Extra long legs meant to be worn pleated to cover your shoes, Body-hugging fit, Mid-rise cut, 95% viscose, 5% elastane, Made in Tunisia, Each piece of this style is unique. Random placement of the print allows individuality, meaning the pattern and colors of this style could vary from one piece to another"
+                    },
+                    {
+                        "name": "JERSEY JOGGERS Jet Black or Tangerine 280.00 USD",
+                        "image_url": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dw78c642c3/product/image/R0346C4CL/001/5x6/jersey-joggers-jet-black-1_748w.jpg",
+                        "details": "Cotton jersey sweatpants in Jet Black, Mid-rise cut, Tonal drawstring at the waist, Two side pockets and one back pocket, Unisex style, Tonal FENTY embroidery on the left side, Tonal monogram embroidery below the right pocket, 100% cotton, Made in Portugal"
+                    },
+                    {
+                        "name": "Super Mini Denim Shorts Indigo 220.00 USD",
+                        "image_url": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dw75a52497/product/image/R0293C5CL/410/5x6/super-mini-denim-shorts-indigo-1_748w.jpg",
+                        "details": "Super mini denim shorts in Indigo, 5-pocket styling, Contrast topstitching, Mid-rise cut, 98% cotton, 2% elastane, Made in Tunisia"
+                    },
+                    {
+                        "name": "XLONG WIDE SATIN PANTS Jet Black 970.00 USD",
+                        "image_url": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dwf63096a2/product/image/R0239A4CL/001/5x6/xlong-wide-satin-pants-jet-black-1_748w.jpg",
+                        "details": "Wide leg pants in Jet Black satin, High rise cut, Front zipper with closing hooks, Belt loops, One back pocket with piping, 66% acetate, 34% viscose, Made in Slovakia"
+                    },
+                    {
+                        "name": "DENIM CORSET SKIRT Coco White or Indigo 360.00 USD",
+                        "image_url": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dw51bdecb3/product/image/R0016C5WS/100/5x6/denim-corset-skirt-coco-white-1_748w.jpg",
+                        "details": "Denim mini skirt in Coco White, Fitted cut, Curved side cut-outs, Tonal topstitching, FENTY-engraved button, Belt loops, 100% cotton, Made in Italy"
                     }
                 ],
-                "shoes": [
+                "category": "Shoes",
+                "products": [
                     {
-                        "product_name1": "CAGED IN SANDALS 105 Coco White or Candy Pink 740.00 USD",
-                        "image_url1": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dwbd3a536c/product/image/S0332L2PT/650/5x6/caged-in-sandals-105-candy-pink-1_748w.jpg",
-                        "detail1": "High-heeled sandals in Candy Pink lambskin ,Intertwined thin leather straps ,Square toe ,Leather-lined inner sole with comfort foam ,Monogrammed outer sole ,Heel height: 10.5 cm / 4.1 inches ,100% nappa lambskin ,Made in Italy",
-                        "product_name2": "HITCH HIKER BOOTS Black & Green or Coco White 730.00 USD",
-                        "image_url2": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dw34d688c4/product/image/S0263L5MT/001/5x6/hitch-hiker-boots-black-flash-green-1_748w.jpg",
-                        "detail2": "Lace up boots in Black rubber leather ,Contrasting Flash Green laces, eyelets, hooks, piping and topstitching ,Rounded toe ,Main fabric and inner sole: 100% rubber calfskin ,Lining: 100% polyester ,Outer sole: 100% rubber ,Made in Italy",
-                        "product_name3": "CORSET BOOTS 105 Jet Black or Coco White 990.00 USD",
-                        "image_url3": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dw98bd8e31/product/image/S0156V2CL/001/5x6/corset-boots-105-jet-black-1_748w.jpg",
-                        "detail3": "Rubber boots in Jet Black ,Front-hook closing ,Extended pointy toe ,Leather-lined inner sole with comfort foam ,Monogrammed slip pad ,Heel height: 10.5 cm / 4 inches ,84% viscose, 11% polyamid, 5% elastane ,Made in Italy",
-                        "product_name4": "CODE WORD SANDALS 105 Coco White and Acid Green 570.00 USD",
-                        "image_url4": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dw453048c9/product/image/S0330C9PT/300/5x6/code-word-sandals-105-acid-green-1_748w.jpg",
-                        "detail4": "High-heeled sandals in Acid Green lambskin ,Intertwined leather straps ,PVC support strap ,Square toe ,Leather-lined inner sole with comfort foam ,Monogrammed outer sole ,Heel height: 10.5 cm / 4.1 inches ,100% nappa lambskin ,Made in Italy",
-                        "product_name5": "COWGIRL HOOKUP SANDALS 105 Jet Black 870.00 USD",
-                        "image_url5": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dw4e874157/product/image/S0250L5SU/001/5x6/cowgirl-hookup-sandals-105-jet-black-2_748w.jpg",
-                        "detail5": "Crystal-embellished high heel post-toe sandals in Jet Black suede ,Suede laces ,Square toe ,Leather-lined inner sole with comfort foam ,Monogrammed slip pad ,T-Heel height: 10.5 cm / 4 inches ,100% goatskin suede ,Made in Italy"
+                        "name": "CAGED IN SANDALS 105 Coco White or Candy Pink 740.00 USD",
+                        "image_url": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dwbd3a536c/product/image/S0332L2PT/650/5x6/caged-in-sandals-105-candy-pink-1_748w.jpg",
+                        "details": "High-heeled sandals in Candy Pink lambskin, Intertwined thin leather straps, Square toe, Leather-lined inner sole with comfort foam, Monogrammed outer sole, Heel height: 10.5 cm / 4.1 inches, 100% nappa lambskin, Made in Italy"
+                    },
+                    {
+                        "name": "HITCH HIKER BOOTS Black & Green or Coco White 730.00 USD",
+                        "image_url": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dw34d688c4/product/image/S0263L5MT/001/5x6/hitch-hiker-boots-black-flash-green-1_748w.jpg",
+                        "details": "Lace up boots in Black rubber leather, Contrasting Flash Green laces, eyelets, hooks, piping and topstitching, Rounded toe, Main fabric and inner sole: 100% rubber calfskin, Lining: 100% polyester, Outer sole: 100% rubber, Made in Italy"
+                    },
+                    {
+                        "name": "CORSET BOOTS 105 Jet Black or Coco White 990.00 USD",
+                        "image_url": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dw98bd8e31/product/image/S0156V2CL/001/5x6/corset-boots-105-jet-black-1_748w.jpg",
+                        "details": "Rubber boots in Jet Black, Front-hook closing, Extended pointy toe, Leather-lined inner sole with comfort foam, Monogrammed slip pad, Heel height: 10.5 cm / 4 inches, 84% viscose, 11% polyamid, 5% elastane, Made in Italy"
+                    },
+                    {
+                        "name": "CODE WORD SANDALS 105 Coco White and Acid Green 570.00 USD",
+                        "image_url": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dw453048c9/product/image/S0330C9PT/300/5x6/code-word-sandals-105-acid-green-1_748w.jpg",
+                        "details": "High-heeled sandals in Acid Green lambskin, Intertwined leather straps, PVC support strap, Square toe, Leather-lined inner sole with comfort foam, Monogrammed outer sole, Heel height: 10.5 cm / 4.1 inches, 100% nappa lambskin, Made in Italy"
+                    },
+                    {
+                        "name": "COWGIRL HOOKUP SANDALS 105 Jet Black 870.00 USD",
+                        "image_url": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dw4e874157/product/image/S0250L5SU/001/5x6/cowgirl-hookup-sandals-105-jet-black-2_748w.jpg",
+                        "details": "Crystal-embellished high heel post-toe sandals in Jet Black suede, Suede laces, Square toe, Leather-lined inner sole with comfort foam, Monogrammed slip pad, T-Heel height: 10.5 cm / 4 inches ,100% goatskin suede, Made in Italy"
                     }
                 ],
-                "accessories": [
+                "category": "Accessories",
+                "products": [
                     {
-                        "product_name1": "BLOCKT II MASK Jet Black or Coco White 440.00 USD",
-                        "image_url1": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dw5a2a4ea6/product/image/A0356A4CL/001/5x6/blockt-ii-mask-jet-black-2_748w.jpg",
-                        "detail1": "Oversized mask ,Jet Black acetate frame ,Black tinted nylon lenses ,Wide FENTY-engraved temples with golden monogram ,Monogrammed tips ,Lenses fixed to frame with small golden studs ,Sun lens filter category: 3 ,Frame height: 6.6 cm / 2.6 inches ,Frame width: 15.2 cm / 6 inches ,Sold in a semi-rigid case with a microfiber cloth for lense maintenance ,Made in Italy",
-                        "product_name2": "SIDE-EYE SUNGLASSES Silver or Gold 720.00 USD",
-                        "image_url2": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dwf98a6ce0/product/image/A0234N1CL/710/5x6/side-eye-sunglasses-gold-1_748w.jpg",
-                        "detail2":"Butterfly sunglasses ,FENTY-engraved nylon lenses in Gold ,Gold-tone jewel frame embellished with Swarovski® crystals ,Ear cuff-inspired curved design that wraps around the ear ,Crystal end tips whith inner FENTY engraving ,Adjustable nose pads ,Sun lens filter category: 3 ,Frame height: 5.7 cm / 2.3 inches ,Frame width: 14.6 cm / 5.7 inches ,Sold in a semi-rigid case with a microfiber cloth for lense maintenance ,Made in Italy",
-                        "product_name3": "ROPED IN EARCUFFS LONG LEFT Crystal or Peach 230.00 USD",
-                        "image_url3": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dw6aa1941d/product/image/A0230B2GG/680/5x6/roped-in-earcuffs-long-left-peach-1_748w.jpg",
-                        "detail3": "Rose gold-tone ear cuff embellished with Swarovski® crystals ,Sold alone for the left ear ,Curved design that wraps around the ear ,On the upper part of the ear: crystal embellishment and drop-shaped crystal pendant ,On the lower part of the ear: crystal embellishment and rectangular crystal pendant ,S: 52 mm / 2 inches ear height ,M: 58.5mm / 2.3 inches ear height ,L: 65 mm / 2.6 inches ear height ,Galvanized brass and Swarovski® crystals ,Made in Italy",
-                        "product_name4": "BLACK TIE BUCKET HAT Jet Black 330.00 USD",
-                        "image_url4": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dw3851b479/product/image/A0231P2CL/001/5x6/black-tie-bucket-hat-jet-black-1_748w.jpg",
-                        "detail4":"Bucket hat in Jet Black water-repellent nylon ,Quilted brim with FENTY logo on left side ,Removable jewel chain with several types of crystals ,Each hat comes with a styling guide for the chain ,Unisex style ,100% nylon ,Made in Italy",
-                        "product_name5": "HOODIE CHARMS Silver or Gold 105.00 USD",
-                        "image_url5": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dw2c40b6f6/product/image/A0328B2GS/710/5x6/hoodie-charms-gold-1_748w.jpg",
-                        "detail5": "Gold-tone hoodie jewels ,Crystal-paved beads ,Engraved FENTY monogram ,Sold in pairs ,Glass crystals and brass ,Made in Thailand"
+                        "name": "BLOCKT II MASK Jet Black or Coco White 440.00 USD",
+                        "image_url": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dw5a2a4ea6/product/image/A0356A4CL/001/5x6/blockt-ii-mask-jet-black-2_748w.jpg",
+                        "details": "Oversized mask, Jet Black acetate frame, Black tinted nylon lenses, Wide FENTY-engraved temples with golden monogram, Monogrammed tips, Lenses fixed to frame with small golden studs, Sun lens filter category: 3, Frame height: 6.6 cm / 2.6 inches, Frame width: 15.2 cm / 6 inches, Sold in a semi-rigid case with a microfiber cloth for lense maintenance, Made in Italy"
+                    },
+                    {
+                        "name": "SIDE-EYE SUNGLASSES Silver or Gold 720.00 USD",
+                        "image_url": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dwf98a6ce0/product/image/A0234N1CL/710/5x6/side-eye-sunglasses-gold-1_748w.jpg",
+                        "details": "Butterfly sunglasses, FENTY-engraved nylon lenses in Gold, Gold-tone jewel frame embellished with Swarovski® crystals, Ear cuff-inspired curved design that wraps around the ear, Crystal end tips whith inner FENTY engraving, Adjustable nose pads, Sun lens filter category: 3, Frame height: 5.7 cm / 2.3 inches, Frame width: 14.6 cm / 5.7 inches, Sold in a semi-rigid case with a microfiber cloth for lense maintenance, Made in Italy"
+                    },
+                    {
+                        "name": "ROPED IN EARCUFFS LONG LEFT Crystal or Peach 230.00 USD",
+                        "image_url": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dw6aa1941d/product/image/A0230B2GG/680/5x6/roped-in-earcuffs-long-left-peach-1_748w.jpg",
+                        "details": "Rose gold-tone ear cuff embellished with Swarovski® crystals, Sold alone for the left ear, Curved design that wraps around the ear, On the upper part of the ear: crystal embellishment and drop-shaped crystal pendant, On the lower part of the ear: crystal embellishment and rectangular crystal pendant, S: 52 mm / 2 inches ear height, M: 58.5mm / 2.3 inches ear height, L: 65 mm / 2.6 inches ear height, Galvanized brass and Swarovski® crystals, Made in Italy"
+                    },
+                    {
+                        "name": "BLACK TIE BUCKET HAT Jet Black 330.00 USD",
+                        "image_url": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dw3851b479/product/image/A0231P2CL/001/5x6/black-tie-bucket-hat-jet-black-1_748w.jpg",
+                        "details": "Bucket hat in Jet Black water-repellent nylon, Quilted brim with FENTY logo on left side, Removable jewel chain with several types of crystals, Each hat comes with a styling guide for the chain, Unisex style, 100% nylon, Made in Italy"
+                    },
+                    {
+                        "name": "HOODIE CHARMS Silver or Gold 105.00 USD",
+                        "image_url": "https://www.fenty.com/on/demandware.static/-/Sites-loud-project-common-catalog/default/dw2c40b6f6/product/image/A0328B2GS/710/5x6/hoodie-charms-gold-1_748w.jpg",
+                        "details": "Gold-tone hoodie jewels, Crystal-paved beads, Engraved FENTY monogram, Sold in pairs, Glass crystals and brass, Made in Thailand"
                     }
                 ]
             }
@@ -95,82 +131,116 @@
         "price_point": "$$$$",
         "categories": [
             {
-                "tops": [
+                "category": "Tops",
+                "products": [
                     {
-                        "product_name1": "Puff Sleeve Top Black 795.00 USD",
-                        "image_url1": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/PUFFSLEEVETOPANDNINJAPANT.jpg?v=1598004666",
-                        "detail1": "Portrait Neckline ,Self: 90% Wool and 10 % Leather ,Manufactured in NYC ,Model is wearing a size XS.",
-                        "product_name2": "Lisa Marie Knit Top Grey 176.00 USD",
-                        "image_url2": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/LisaMarieRougedTop4149ret__02524.1491936675.1280.1280.jpg?v=1521481043",
-                        "detail2": "A classic LaQuan piece with endless opportunities for styling.  The updated Lisa Marie Knit top featured in grey with long ruched sleeves. Has an elastic neckline to ensure a good and comfortable fit. Pull on and step out",
-                        "product_name3": "Winnie Dress MutliColored 1,306.00 USD",
-                        "image_url3": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/FALL_19_-21.jpg?v=1574809797",
-                        "detail3": "Fitted silk faille mini dress ,Boning insert in lining ,Invisible zipper closure ,Voluminous Ruffled Sleeves ,Self: 100% Silk ,Lining: 100% poly ,Manufactured in NYC ,Model is wearing size small",
-                        "product_name4": "Frida Geometric Mini Dark Blue 1,500.00 USD",
-                        "image_url4": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/FALL_19_-27.jpg?v=1574807045",
-                        "detail4": "Geometric transparent printed mini dress ,Invisible zipper closure ,70 inch neck tie ,Self: 100% dyed poly tulle ,Manufactured in NYC ,Model is wearing size small ",
-                        "product_name5": "Cutout Mesh and Velvet Catsuit Black 700.00 USD",
-                        "image_url5": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/20200910_LaQuan_Smith_095copy.jpg?v=1601413434",
-                        "detail5": "Self: 60% Mesh (96% Polyester 4% Polyurethane) and 40% Velvet (100% Silk) ,Manufactured in NYC ,Model is wearing a size XS"
+                        "name": "Puff Sleeve Top Black 795.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/PUFFSLEEVETOPANDNINJAPANT.jpg?v=1598004666",
+                        "details": "Portrait Neckline, Self: 90% Wool and 10 % Leather, Manufactured in NYC"
+                    },
+                    {
+                        "name": "Lisa Marie Knit Top Grey 176.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/LisaMarieRougedTop4149ret__02524.1491936675.1280.1280.jpg?v=1521481043",
+                        "details": "A classic LaQuan piece with endless opportunities for styling. The updated Lisa Marie Knit top featured in grey with long ruched sleeves. Has an elastic neckline to ensure a good and comfortable fit. Pull on and step out"
+                    },
+                    {
+                        "name": "Winnie Dress MutliColored 1,306.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/FALL_19_-21.jpg?v=1574809797",
+                        "details": "Fitted silk faille mini dress, Boning insert in lining, Invisible zipper closure, Voluminous Ruffled Sleeves, Self: 100% Silk, Lining: 100% poly, Manufactured in NYC"
+                    },
+                    {
+                        "name": "Frida Geometric Mini Dark Blue 1,500.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/FALL_19_-27.jpg?v=1574807045",
+                        "details": "Geometric transparent printed mini dress, Invisible zipper closure, 70 inch neck tie, Self: 100% dyed poly tulle, Manufactured in NYC"
+                    },
+                    {
+                        "name": "Cutout Mesh and Velvet Catsuit Black 700.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/20200910_LaQuan_Smith_095copy.jpg?v=1601413434",
+                        "details": "Self: 60% Mesh (96% Polyester 4% Polyurethane) and 40% Velvet (100% Silk), Manufactured in NYC"
                     }
                 ],
-                "bottoms": [
+                "category": "Bottoms",
+                "products": [
                     {
-                        "product_name1": "Latex Moto Pant Dark Green 1,500.00 USD",
-                        "image_url1": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/FW20_ecomm_0269.completed_6a776c11-544c-49ad-b8ba-a9a21f2b5824.jpg?v=1598006541",
-                        "detail1": "Self: 59% Polyurethane 41% Polyester ,Manufactured in NYC ,Model is wearing a size XS",
-                        "product_name2": "Quilted Puffer Teddy Skirt Black 400.00 USD",
-                        "image_url2": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/QUILTEDTEDDYSKIRTANDLAMEEKAJACKET.jpg?v=1598005410",
-                        "detail2": "Self: 100% Nylon ,Manufactured in NYC ,Model is wearing a size XS",
-                        "product_name3": "Puff Mini Skirt Black 595.00 USD",
-                        "image_url3": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/LEATHERBUSTIERBODYSUITANDPUFFMINISKIRT.jpg?v=1598445310",
-                        "detail3": "Self: 100% Nylon ,Manufactured in NYC ,Model is wearing a size XS",
-                        "product_name4": "Caitlyn Moto Military Pant Brown 595.00 USD",
-                        "image_url4": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/FW20_ecomm_0450.completed_9c7464cb-8133-4902-b78f-f6d6f341260b.jpg?v=1598005583",
-                        "detail4": "Self: 100% Wool ,Manufactured in NYC ,Model is wearing a size XS",
-                        "product_name5": "LaQuan Smith x Jordache Denim Moto Pant Denim 695.00 USD",
-                        "image_url5": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/FW20_ecomm_0464.completed.jpg?v=1598005700",
-                        "detail5": "Manufactured in NYC ,Model is wearing a size XS"
+                        "name": "Latex Moto Pant Dark Green 1,500.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/FW20_ecomm_0269.completed_6a776c11-544c-49ad-b8ba-a9a21f2b5824.jpg?v=1598006541",
+                        "details": "Self: 59% Polyurethane 41% Polyester, Manufactured in NYC"
+                    },
+                    {
+                        "name": "Quilted Puffer Teddy Skirt Black 400.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/QUILTEDTEDDYSKIRTANDLAMEEKAJACKET.jpg?v=1598005410",
+                        "details": "Self: 100% Nylon, Manufactured in NYC"
+                    },
+                    {
+                        "name": "Puff Mini Skirt Black 595.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/LEATHERBUSTIERBODYSUITANDPUFFMINISKIRT.jpg?v=1598445310",
+                        "details": "Self: 100% Nylon, Manufactured in NYC"
+                    },
+                    {
+                        "name": "Caitlyn Moto Military Pant Brown 595.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/FW20_ecomm_0450.completed_9c7464cb-8133-4902-b78f-f6d6f341260b.jpg?v=1598005583",
+                        "details": "Self: 100% Wool, Manufactured in NYC"
+                    },
+                    {
+                        "name": "LaQuan Smith x Jordache Denim Moto Pant Denim 695.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/FW20_ecomm_0464.completed.jpg?v=1598005700",
+                        "details": "Manufactured in NYC"
                     }
                 ],
-                "shoes": [
+                "category": "Shoes",
+                "products": [
                     {
-                        
-                        "product_name1": "LQS Puffer Boot Black 895.00 USD",
-                        "image_url1": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/LQS_Bubbleboot_6w__59657.1488291722.1280.1280.jpg?v=1521485033",
-                        "detail1": "Puffer Boots",
-                        "product_name2": "LQS PVC Bootie Black 450.00 USD",
-                        "image_url2": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/LQS_pvc_short00066w__85024.1488287977.1280.1280.jpg?v=1521485432",
-                        "detail2": "PVC Booties",
-                        "product_name3": "LQS PVC Thigh-High Black 650.00 USD",
-                        "image_url3": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/LQS_pvc_longw__31140.1488288771.1280.1280.jpg?v=1521487454",
-                        "detail3": "PVC Thigh High Boots",
-                        "product_name4": "ASOS DESIGN x LaQuan Smith over the knee boots Blac 150.00 USD",
-                        "image_url4": "https://di2ponv0v5otw.cloudfront.net/posts/2020/07/09/5f0789e8d737fd589994ec8a/m_5f078c6843895f57072560e2.jpg",
-                        "detail4": "Padded over the knee heeled boot in velour",
-                        "product_name5": "LaQuan Smith x ASOS heeled sandal 85.00 USD",
-                        "image_url5": "https://di2ponv0v5otw.cloudfront.net/posts/2019/04/23/5cbf59772f48319273858c27/m_5cbf59b2264a551ca71cfbf7.jpg",
-                        "detail5": "Blue and Black LQS Heelsed Sandal with ankle tie"
+                        "name": "LQS Puffer Boot Black 895.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/LQS_Bubbleboot_6w__59657.1488291722.1280.1280.jpg?v=1521485033",
+                        "details": "Puffer Boots"
+                    },
+                    {
+                        "name": "LQS PVC Bootie Black 450.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/LQS_pvc_short00066w__85024.1488287977.1280.1280.jpg?v=1521485432",
+                        "details": "PVC Booties"
+                    },
+                    {
+                        "name": "LQS PVC Thigh-High Black 650.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/LQS_pvc_longw__31140.1488288771.1280.1280.jpg?v=1521487454",
+                        "details": "PVC Thigh High Boots"
+                    },
+                    {
+                        "name": "ASOS DESIGN x LaQuan Smith over the knee boots Blac 150.00 USD",
+                        "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2020/07/09/5f0789e8d737fd589994ec8a/m_5f078c6843895f57072560e2.jpg",
+                        "details": "Padded over the knee heeled boot in velour"
+                    },
+                    {
+                        "name": "LaQuan Smith x ASOS heeled sandal 85.00 USD",
+                        "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2019/04/23/5cbf59772f48319273858c27/m_5cbf59b2264a551ca71cfbf7.jpg",
+                        "details": "Blue and Black LQS Heelsed Sandal with ankle tie"
                     }
                 ],
-                "accessories": [
+                "category": "Accessories",
+                "products": [
                     {
-                        
-                        "product_name1": "`Hoe Bag` Black and White 6,500.00 USD",
-                        "image_url1": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/Hoebagsideview.jpg?v=1598432558",
-                        "detail1": "Self: 100% Mink Fur ,Manufactured in NYC",
-                        "product_name2": "`I am Moving Out` Bag White and Black 9,500.00 USD",
-                        "image_url2": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/immovingoutbagfront2.jpg?v=1598432466",
-                        "detail2": "Self: 100% Fox Fur ,Manufactured in NYC",
-                        "product_name3": "ASOS DESIGN x LaQuan Smith oversized hoop earrings Gold 40.00 USD",
-                        "image_url3": "https://images.asos-media.com/products/asos-design-x-laquan-smith-oversized-hoop-earrings-with-swarovski-crystals/10786494-1-gold?$XXL$&wid=513&fit=constrain",
-                        "detail3": "LQS Oversized hoop earrings with Swarovski crystal",
-                        "product_name4": "ASOS DESIGN x LaQuan Smith leather cross body bag Red and Black 95.00 USD",
-                        "image_url4": "https://images.asos-media.com/products/asos-design-x-laquan-smith-leather-cross-body-bag-with-check-panel/10785185-4?$XXL$&wid=513&fit=constrain",
-                        "detail4": "LQS leather cross body bag with check panel",
-                        "product_name5": "ASOS DESIGN x LaQuan Smith embellished mesh durag Black 44.00 USD",
-                        "image_url5": "https://images.asos-media.com/products/asos-design-x-laquan-smith-embellished-mesh-durag/10766381-1-black?$XXL$&wid=513&fit=constrain",
-                        "detail5": "LQS ASOS DESIGN x LaQuan Smith embellished mesh durag"
+                        "name": "`Hoe Bag` Black and White 6,500.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/Hoebagsideview.jpg?v=1598432558",
+                        "details": "Self: 100% Mink Fur, Manufactured in NYC"
+                    },
+                    {
+                        "name": "`I am Moving Out` Bag White and Black 9,500.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/0005/5083/0138/products/immovingoutbagfront2.jpg?v=1598432466",
+                        "details": "Self: 100% Fox Fur, Manufactured in NYC"
+                    },
+                    {
+                        "name": "ASOS DESIGN x LaQuan Smith oversized hoop earrings Gold 40.00 USD",
+                        "image_url": "https://images.asos-media.com/products/asos-design-x-laquan-smith-oversized-hoop-earrings-with-swarovski-crystals/10786494-1-gold?$XXL$&wid=513&fit=constrain",
+                        "details": "LQS Oversized hoop earrings with Swarovski crystal"
+                    },
+                    {
+                        "name": "ASOS DESIGN x LaQuan Smith leather cross body bag Red and Black 95.00 USD",
+                        "image_url": "https://images.asos-media.com/products/asos-design-x-laquan-smith-leather-cross-body-bag-with-check-panel/10785185-4?$XXL$&wid=513&fit=constrain",
+                        "details": "LQS leather cross body bag with check panel"
+                    },
+                    {
+                        "name": "ASOS DESIGN x LaQuan Smith embellished mesh durag Black 44.00 USD",
+                        "image_url": "https://images.asos-media.com/products/asos-design-x-laquan-smith-embellished-mesh-durag/10766381-1-black?$XXL$&wid=513&fit=constrain",
+                        "details": "LQS ASOS DESIGN x LaQuan Smith embellished mesh durag"
                     }
                 ]
             }
@@ -185,83 +255,116 @@
         "price_point": "$$$$",
         "categories": [
             {
-                "tops": [
+                "category": "Tops",
+                "products": [
                     {
-                        "product_name1": "Nutmeg Beige Robe 528.00 USD",
-                        "image_url1": "https://cdn.shopify.com/s/files/1/0669/9705/products/Fe_Noel-2156_720x.jpg?v=1581447954",
-                        "detail1": "Nutmeg print ,Midi length ,Slip on ,Belt Tie ,Dry clean ,Available in short & long length8 ,Made to order",
-                        "product_name2": "Champagne Half Sleeve Tie Dress 698.00 USD",
-                        "image_url2": "https://cdn.shopify.com/s/files/1/0669/9705/products/Fe_Noel-2199_720x.jpg?v=1581448614",
-                        "detail2": "100% Silk ,Champagne Tone ,One shoulder ,Long length ,Dry clean ,Made to order",
-                        "product_name3": "Daughter of the Soil Knit Sweater 1,495.00 USD",
-                        "image_url3": "https://cdn.shopify.com/s/files/1/0669/9705/products/Fe_Noel-2148_720x.jpg?v=1582054935",
-                        "detail3": "Multi-Color Print Knit ,Dry clean ,Cropped ,Unlined ,Made to order",
-                        "product_name4": "Spice Girl Ruched Top Red 398.00 USD",
-                        "image_url4": "https://cdn.shopify.com/s/files/1/0669/9705/products/Fe_Noel-2113_720x.jpg?v=1581446083",
-                        "detail4": "Red Linen ,Puff sleeves ,Cropped length ,Back hook and snap closure ,Pull on ,Hand wash",
-                        "product_name5": "Dancehall Jersey Knit Dress Neon Green 1,098.00 USD",
-                        "image_url5": "https://cdn.shopify.com/s/files/1/0669/9705/products/Fe_Noel-2213_720x.jpg?v=1581449235",
-                        "detail5": "Neon Green Sheer Knit Jersey ,Slip on ,Hand ruched ,Dry clean ,Made to order"
+                        "name": "Nutmeg Beige Robe 528.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/0669/9705/products/Fe_Noel-2156_720x.jpg?v=1581447954",
+                        "details": "Nutmeg print, Midi length, Slip on, Belt Tie, Dry clean, Available in short & long length8"
+                    },
+                    {
+                        "name": "Champagne Half Sleeve Tie Dress 698.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/0669/9705/products/Fe_Noel-2199_720x.jpg?v=1581448614",
+                        "details": "100% Silk, Champagne Tone, One shoulder, Long length, Dry clean"
+                    },
+                    {
+                        "name": "Daughter of the Soil Knit Sweater 1,495.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/0669/9705/products/Fe_Noel-2148_720x.jpg?v=1582054935",
+                        "details": "Multi-Color Print Knit, Dry clean, Cropped, Unlined"
+                    },
+                    {
+                        "name": "Spice Girl Ruched Top Red 398.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/0669/9705/products/Fe_Noel-2113_720x.jpg?v=1581446083",
+                        "details": "Red Linen, Puff sleeves, Cropped length, Back hook and snap closure, Pull on, Hand wash"
+                    },
+                    {
+                        "name": "Dancehall Jersey Knit Dress Neon Green 1,098.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/0669/9705/products/Fe_Noel-2213_720x.jpg?v=1581449235",
+                        "details": "Neon Green Sheer Knit Jersey, Slip on, Hand ruched, Dry clean"
                     }
                 ],
-                "bottoms": [
+                "category": "Bottoms",
+                "products": [
                     {
-                       
-                        "product_name1": "Ginger Sheer Layered Pant 428.00 USD",
-                        "image_url1": "https://cdn.shopify.com/s/files/1/0669/9705/products/Fe_Noel-Fix-2246_720x.jpg?v=1581546029",
-                        "detail1": "Outer Shell: 100% Linen ,Inner Shell: Pleated Chiffon ,Multi-Layer ,Invisible zip in center back ,Dry clean ,Made to order",
-                        "product_name2": "Red Rasta Linen Pant 368.00 USD",
-                        "image_url2": "https://cdn.shopify.com/s/files/1/0669/9705/products/Fe_Noel-2227_720x.jpg?v=1581449728",
-                        "detail2": "Linen ,Invisible zip in center back ,Dry clean",
-                        "product_name3": "Welfed Pant Yellow 369.00 USD",
-                        "image_url3": "https://cdn.shopify.com/s/files/1/0669/9705/products/Fe_Noel-Fix-2240_720x.jpg?v=1581450643",
-                        "detail3": "Front zip ,Hook closure ,Visible pockets ,Close fit Dry clean",
-                        "product_name4": "Slim Sheer Cargo Pants Brown 328.00 USD",
-                        "image_url4": "https://cdn.shopify.com/s/files/1/0669/9705/products/Fe_Noel-2242_720x.jpg?v=1581450713",
-                        "detail4": "Olive tone ,Sheer ,Front Zip ,Tapered Leg ,Utility Pockets ,Dry Clean",
-                        "product_name5": "Spice Sheer Pant Peach 378.00 USD",
-                        "image_url5": "https://cdn.shopify.com/s/files/1/0669/9705/products/Fe_Noel-Fix-2252_720x.jpg?v=1581450237",
-                        "detail5": "Peach Sheer ,Stitched Stripes ,Pockets ,Back zip ,Dry clean"
+                        "name": "Ginger Sheer Layered Pant 428.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/0669/9705/products/Fe_Noel-Fix-2246_720x.jpg?v=1581546029",
+                        "details": "Outer Shell: 100% Linen, Inner Shell: Pleated Chiffon, Multi-Layer, Invisible zip in center back, Dry clean"
+                    },
+                    {
+                        "name": "Red Rasta Linen Pant 368.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/0669/9705/products/Fe_Noel-2227_720x.jpg?v=1581449728",
+                        "details": "Linen, Invisible zip in center back, Dry clean"
+                    },
+                    {
+                        "name": "Welfed Pant Yellow 369.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/0669/9705/products/Fe_Noel-Fix-2240_720x.jpg?v=1581450643",
+                        "details": "Front zip, Hook closure, Visible pockets, Close fit Dry clean"
+                    },
+                    {
+                        "name": "Slim Sheer Cargo Pants Brown 328.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/0669/9705/products/Fe_Noel-2242_720x.jpg?v=1581450713",
+                        "details": "Olive tone, Sheer, Front Zip, Tapered Leg, Utility Pockets, Dry Clean"
+                    },
+                    {
+                        "name": "Spice Sheer Pant Peach 378.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/0669/9705/products/Fe_Noel-Fix-2252_720x.jpg?v=1581450237",
+                        "details": "Peach Sheer, Stitched Stripes, Pockets, Back zip, Dry clean"
                     }
                 ],
-                "shoes": [
+                "category": "Shoes",
+                "products": [
                     {
-                       
-                        "product_name1": "",
-                        "image_url1": "",
-                        "detail1": "",
-                        "product_name2": "",
-                        "image_url2": "",
-                        "detail2": "",
-                        "product_name3": "",
-                        "image_url3": "",
-                        "detail3": "",
-                        "product_name4": "",
-                        "image_url4": "",
-                        "detail4": "",
-                        "product_name5": "",
-                        "image_url5": "",
-                        "detail5": ""
+                        "name": "",
+                        "image_url": "",
+                        "details": ""
+                    },
+                    {
+                        "name": "",
+                        "image_url": "",
+                        "details": ""
+                    },
+                    {
+                        "name": "",
+                        "image_url": "",
+                        "details": ""
+                    },
+                    {
+                        "name": "",
+                        "image_url": "",
+                        "details": ""
+                    },
+                    {
+                        "name": "",
+                        "image_url": "",
+                        "details": ""
                     }
                 ],
-                "accessories": [
+                "category": "Accessories",
+                "products": [
                     {
-                        
-                        "product_name1": "Lambskin Belt Pouch Cognac 278.00 USD",
-                        "image_url1": "https://cdn.shopify.com/s/files/1/0669/9705/products/image_670ecca5-4f00-4041-bfc4-c9978cdb4da4_720x.jpg?v=1548088110",
-                        "detail1": "Cognac ,Genuine lambskin ,144 inches length (wraps twice) ,Pleated front and waist ,Small pouch  ,Made to order",
-                        "product_name2": "FE NOEL X FASHION OUR FUTURE Scarf 38.00 USD",
-                        "image_url2": "https://cdn.shopify.com/s/files/1/0669/9705/products/FOF-Scarf_720x.png?v=1602175573",
-                        "detail2": "19 x 19 inches ,Fabric: 100% Viscose",
-                        "product_name3": "Vote Baby Vote Scarf",
-                        "image_url3": "https://cdn.shopify.com/s/files/1/0669/9705/products/voteby_19x20_05e31fb1-89a8-4c01-9237-f564acdf52ca_720x.png?v=1602174797",
-                        "detail3": "Two sizes: 19x20 & 34x34 ,Printed scarf ,Fabric: 100% viscose ,Dry clean only",
-                        "product_name4": "",
-                        "image_url4": "",
-                        "detail4": "",
-                        "product_name5": "",
-                        "image_url5": "",
-                        "detail5": ""
+                        "name": "Lambskin Belt Pouch Cognac 278.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/0669/9705/products/image_670ecca5-4f00-4041-bfc4-c9978cdb4da4_720x.jpg?v=1548088110",
+                        "details": "Cognac, Genuine lambskin, 144 inches length (wraps twice), Pleated front and waist, Small pouch, Made to order"
+                    },
+                    {
+                        "name": "FE NOEL X FASHION OUR FUTURE Scarf 38.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/0669/9705/products/FOF-Scarf_720x.png?v=1602175573",
+                        "details": "19 x 19 inches, Fabric: 100% Viscose"
+                    },
+                    {
+                        "name": "Vote Baby Vote Scarf",
+                        "image_url": "https://cdn.shopify.com/s/files/1/0669/9705/products/voteby_19x20_05e31fb1-89a8-4c01-9237-f564acdf52ca_720x.png?v=1602174797",
+                        "details": "Two sizes: 19x20 & 34x34, Printed scarf, Fabric: 100% viscose, Dry clean only"
+                    },
+                    {
+                        "name": "",
+                        "image_url": "",
+                        "details": ""
+                    },
+                    {
+                        "name": "",
+                        "image_url": "",
+                        "details": ""
                     }
                 ]
             }
@@ -276,84 +379,116 @@
         "price_point": "$$$",
         "categories": [
             {
-                "tops": [
+                "category": "Tops",
+                "products": [
                     {
-                       
-                        "product_name1": "Designer Me Dress/Top Black 39.00 USD",
-                        "image_url1": "https://cdn.shopify.com/s/files/1/1280/6143/products/IMG_9281.jpg?v=1604250062",
-                        "detail1": "This cute baroque/animal print button down dress/top is a must have. Features a collar detail, front button down closure, loose fit and has stretch. ,Super comfy and lightweight ,95% Poly ,5% Spandex",
-                        "product_name2": "Never Plaid Out Jacket 69.00 USD",
-                        "image_url2": "https://cdn.shopify.com/s/files/1/1280/6143/products/IMG_5121.jpg?v=1602108243",
-                        "detail2": "This oversized trench jacket is A Game Changer! ,Features: -plaid print  -pockets -collared -button down -100% Poly",
-                        "product_name3": "Phoenix Mustard 56.00 USD",
-                        "image_url3": "https://cdn.shopify.com/s/files/1/1280/6143/products/IMG_23852.jpg?v=1601611689",
-                        "detail3": "This oversized dress is a must have. ,This batwing cut dress drapes so nicely on the body. Chic yet loose fitting, not see through and very lightweight. ,Features a collar button down closure, buttoned cuff sleeves and a tie string in the front. ,Generous Loose Fit Cut ,Material: 80% COTTON, 20% RAYON ,Super comfy and lightweight",
-                        "product_name4": "Persia Maxi Dress 92.00 USD",
-                        "image_url4": "https://cdn.shopify.com/s/files/1/1280/6143/products/IMG_40672.jpg?v=1597423481",
-                        "detail4": "This pretty maxi is a wardrobe must have. ,Features: - a full length maxi dress with deep v-neckline - front button down closure that stops above the knee featuring a slit - string and beads detail, and elastic waistline ,100% Polyester",
-                        "product_name5": "Knit Happens Sweater Top 59.00 USD",
-                        "image_url5": "https://cdn.shopify.com/s/files/1/1280/6143/products/IMG_9989.jpg?v=1604694026",
-                        "detail5": "This must have striped colorblock knit sweater is perfect for the season. Features a breathable knit fabric with crew neckline that you can wear slightly off shoulder, loose long sleeves, no closures. This sweater is slightly oversized loose fit. Perfect for layering! ,Super comfy "
+                        "name": "Designer Me Dress/Top Black 39.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/1280/6143/products/IMG_9281.jpg?v=1604250062",
+                        "details": "This cute baroque/animal print button down dress/top is a must have. Features a collar details, front button down closure, loose fit and has stretch, Super comfy and lightweight, 95% Poly, 5% Spandex"
+                    },
+                    {
+                        "name": "Never Plaid Out Jacket 69.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/1280/6143/products/IMG_5121.jpg?v=1602108243",
+                        "details": "This oversized trench jacket is A Game Changer!, Features: -plaid print  -pockets -collared -button down -100% Poly"
+                    },
+                    {
+                        "name": "Phoenix Mustard 56.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/1280/6143/products/IMG_23852.jpg?v=1601611689",
+                        "details": "This oversized dress is a must have, This batwing cut dress drapes so nicely on the body. Chic yet loose fitting, not see through and very lightweight. Features a collar button down closure, buttoned cuff sleeves and a tie string in the front. Generous Loose Fit Cut, Material: 80% COTTON, 20% RAYON, Super comfy and lightweight"
+                    },
+                    {
+                        "name": "Persia Maxi Dress 92.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/1280/6143/products/IMG_40672.jpg?v=1597423481",
+                        "details": "This pretty maxi is a wardrobe must have. Features: - a full length maxi dress with deep v-neckline - front button down closure that stops above the knee featuring a slit - string and beads details, and elastic waistline, 100% Polyester"
+                    },
+                    {
+                        "name": "Knit Happens Sweater Top 59.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/1280/6143/products/IMG_9989.jpg?v=1604694026",
+                        "details": "This must have striped colorblock knit sweater is perfect for the season. Features a breathable knit fabric with crew neckline that you can wear slightly off shoulder, loose long sleeves, no closures. This sweater is slightly oversized loose fit. Perfect for layering!, Super comfy "
                     }
                 ],
-                "bottoms": [
+                "category": "Bottoms",
+                "products": [
                     {
-                       
-                        "product_name1": "Fall Breeze Pants 49.00 USD",
-                        "image_url1": "https://cdn.shopify.com/s/files/1/1280/6143/products/IMG_23882.jpg?v=1600881035",
-                        "detail1": "Get in to this earth tone abstract print pants. Features a wide leg cut, high waisted, with side zipper closure and pockets. ,Very comfy",
-                        "product_name2": "Aneesa Jumpsuit Multicolor 74.00 USD",
-                        "image_url2": "https://cdn.shopify.com/s/files/1/1280/6143/products/Enlight641.jpg?v=1595536505",
-                        "detail2": "This abstract print jumpsuit is a fashionista must have. ,Features cutout detail, keyhole cutout, adjustable spaghetti straps, wide leg cut and back zipper closure. ,Inseam: 31 inches ,100% Poly",
-                        "product_name3": "Sistah Souljah Camo Pants Orange 46.00 USD",
-                        "image_url3": "https://cdn.shopify.com/s/files/1/1280/6143/products/IMG_1831_9e54dd16-735c-4a81-a67c-44b73ebcb1b2.jpg?v=1590515800",
-                        "detail3": "Babe, get into these paperbag high waisted camo pants. ,Pants feature a front button and zipper closure, comes with a belt, side leg cargo pocket, elastic ankles with tie straps. Baggy fit with cinched waistline. ,Material has a sandy texture to it",
-                        "product_name4": "Exposure Skirt 58.00 USD",
-                        "image_url4": "https://cdn.shopify.com/s/files/1/1280/6143/products/IMG_0820.jpg?v=1605149617",
-                        "detail4": "Expose those legs babe! This edgy skirt is a stunner! Features all around vertical zippers and a solid waist band. This skirt can be worn many ways, get into it. ,95% Poly ,5% Spandex",
-                        "product_name5": "Stuck On You Skirt 42.00 USD",
-                        "image_url5": "https://cdn.shopify.com/s/files/1/1280/6143/products/IMG_4253_2f481764-b96b-418b-86e4-ca6d79a599e0.jpg?v=1601608638",
-                        "detail5": "Dress it up or dress it down, this skirt will have all eyes STUCK ON YOU! The perfect figure-hugging fit with a high waist and ruched sides. ,This skirt is a tight fit but the right fit, material is vinyl, so it has stretch like latex. ,95% Vinyl ,5% Spandex"
+                        "name": "Fall Breeze Pants 49.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/1280/6143/products/IMG_23882.jpg?v=1600881035",
+                        "details": "Get in to this earth tone abstract print pants. Features a wide leg cut, high waisted, with side zipper closure and pockets. Very comfy"
+                    },
+                    {
+                        "name": "Aneesa Jumpsuit Multicolor 74.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/1280/6143/products/Enlight641.jpg?v=1595536505",
+                        "details": "This abstract print jumpsuit is a fashionista must have. Features cutout details, keyhole cutout, adjustable spaghetti straps, wide leg cut and back zipper closure. Inseam: 31 inches, 100% Poly"
+                    },
+                    {
+                        "name": "Sistah Souljah Camo Pants Orange 46.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/1280/6143/products/IMG_1831_9e54dd16-735c-4a81-a67c-44b73ebcb1b2.jpg?v=1590515800",
+                        "details": "Babe, get into these paperbag high waisted camo pants. Pants feature a front button and zipper closure, comes with a belt, side leg cargo pocket, elastic ankles with tie straps. Baggy fit with cinched waistline. Material has a sandy texture to it"
+                    },
+                    {
+                        "name": "Exposure Skirt 58.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/1280/6143/products/IMG_0820.jpg?v=1605149617",
+                        "details": "Expose those legs babe! This edgy skirt is a stunner! Features all around vertical zippers and a solid waist band. This skirt can be worn many ways, get into it, 95% Poly, 5% Spandex"
+                    },
+                    {
+                        "name": "Stuck On You Skirt 42.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/1280/6143/products/IMG_4253_2f481764-b96b-418b-86e4-ca6d79a599e0.jpg?v=1601608638",
+                        "details": "Dress it up or dress it down, this skirt will have all eyes STUCK ON YOU! The perfect figure-hugging fit with a high waist and ruched sides. This skirt is a tight fit but the right fit, material is vinyl, so it has stretch like latex, 95% Vinyl, 5% Spandex"
                     }
                 ],
-                "shoes": [
+                "category": "Shoes",
+                "products": [
                     {
-                       
-                        "product_name1": "Ryder Heels Nispey Blue, Black, Red, or Orange 48.00 USD",
-                        "image_url1": "https://cdn.shopify.com/s/files/1/1280/6143/products/ScreenShot2020-05-06at11.00.30AM.png?v=1599611929",
-                        "detail1": "These paisley print heels are to die for. Heel Height Approx: 5.5 inches ,Platform Height Approx: 1.5 inches ,True to Size ,Around-The-Ankle Lace-Up Closure ,Platform Sole ,Chunky Heel ,Lightly Padded Insole",
-                        "product_name2": "Keep It Steppin Rose Gold 69.00 USD",
-                        "image_url2": "https://cdn.shopify.com/s/files/1/1280/6143/products/CapeRobbin.KeepItSteppin.jpg?v=1597786635",
-                        "detail2": "These shiny rhinestone lace up sneakers are a wardrobe must have. ,True to size fit! ",
-                        "product_name3": "Show Me Off Heels Clear 45.00 USD",
-                        "image_url3": "https://cdn.shopify.com/s/files/1/1280/6143/products/ScreenShot2020-07-31at2.32.53PM.png?v=1596644381",
-                        "detail3": "These clear pumps are a closet must have. Show off your beautiful feet in these pumps, you cant go wrong. Effortless! ,Pointed Toe ,Slip-On Design ,Clear Top/Clear Perspex Heel ,Vegan-Friendly ,Heel Height: Approx 3.5',Snug Fit, order a 1/2 size up ",
-                        "product_name4": "Run It Up Booties White 55.00 USD",
-                        "image_url4": "https://cdn.shopify.com/s/files/1/1280/6143/products/2.png?v=1580839686",
-                        "detail4": "These Run It Up combat booties features a leather based upper, platform sole with rivets, lace up closure, metallic hardware. Perfect for any casual look. ,Lace up closure ,Rounded toe ,Platform sole ,Leather upper ,Imported",
-                        "product_name5": "Strut Your Stuff Sandals Red 40.00 USD",
-                        "image_url5": "https://cdn.shopify.com/s/files/1/1280/6143/products/DSC04251copy.jpg?v=1579629759",
-                        "detail5": "These Fur Mule Sandals are super chic. Features a fluffy feather trimming, an open toe design, cushioned insole, slide-in fit, and rhinestone chunky block heel. This pair is calling your name."
+                        "name": "Ryder Heels Nispey Blue, Black, Red, or Orange 48.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/1280/6143/products/ScreenShot2020-05-06at11.00.30AM.png?v=1599611929",
+                        "details": "These paisley print heels are to die for. Heel Height Approx: 5.5 inches, Platform Height Approx: 1.5 inches, True to Size, Around-The-Ankle Lace-Up Closure, Platform Sole, Chunky Heel, Lightly Padded Insole"
+                    },
+                    {
+                        "name": "Keep It Steppin Rose Gold 69.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/1280/6143/products/CapeRobbin.KeepItSteppin.jpg?v=1597786635",
+                        "details": "These shiny rhinestone lace up sneakers are a wardrobe must have. True to size fit!"
+                    },
+                    {
+                        "name": "Show Me Off Heels Clear 45.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/1280/6143/products/ScreenShot2020-07-31at2.32.53PM.png?v=1596644381",
+                        "details": "These clear pumps are a closet must have. Show off your beautiful feet in these pumps, you cant go wrong. Effortless! Pointed Toe, Slip-On Design, Clear Top/Clear Perspex Heel, Vegan-Friendly, Heel Height: Approx 3.5', Snug Fit, order a 1/2 size up"
+                    },
+                    {
+                        "name": "Run It Up Booties White 55.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/1280/6143/products/2.png?v=1580839686",
+                        "details": "These Run It Up combat booties features a leather based upper, platform sole with rivets, lace up closure, metallic hardware. Perfect for any casual look. Lace up closure, Rounded toe, Platform sole, Leather upper, Imported"
+                    },
+                    {
+                        "name": "Strut Your Stuff Sandals Red 40.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/1280/6143/products/DSC04251copy.jpg?v=1579629759",
+                        "details": "These Fur Mule Sandals are super chic. Features a fluffy feather trimming, an open toe design, cushioned insole, slide-in fit, and rhinestone chunky block heel. This pair is calling your name"
                     }
                 ],
-                "accessories": [
+                "category": "Accessories",
+                "products": [
                     {
-                       
-                        "product_name1": "Basketball Swagg Bag Multi 80.00 USD",
-                        "image_url1": "https://cdn.shopify.com/s/files/1/1280/6143/products/detail_pic1_a0574497-e462-430a-b412-de3c4b46c4ff.jpg?v=1603294786",
-                        "detail1": "The perfect swag bag. ,This basketball clutch features handles and detachable strap with gold chain detail. ,9W X 9H X 9D ,Polyurethane ,Mixed Metal",
-                        "product_name2": "No Shady Bizness Hat 58.00 USD",
-                        "image_url2": "https://cdn.shopify.com/s/files/1/1280/6143/products/ScreenShot2020-04-30at12.50.57AM.png?v=1595042608",
-                        "detail2": "Okay ladies, can we get in to this oversized floppy straw sun hat, perfect for blocking shade ;) ,Hat is stitched in place on the side, you carefully cut the stitch if you would like to unroll it ",
-                        "product_name3": "Wanderlust Clutch 59.00 USD",
-                        "image_url3": "https://cdn.shopify.com/s/files/1/1280/6143/products/IMG_9571.jpg?v=1595042592",
-                        "detail3": "We are in love with this boho chic vintage style clutch.",
-                        "product_name4": "Ice Me Out Mask 23.00 USD",
-                        "image_url4": "https://cdn.shopify.com/s/files/1/1280/6143/products/IMG_9747.jpg?v=1595040619",
-                        "detail4": "This rhinestone face mask is the perfect accessory to any haute fashion look. Features elastic loop bands that go around the ear, no pocket for a filter, but a disposable mask can be worn under it.",
-                        "product_name5": "So Plaid Out Clutch 35.00 USD",
-                        "image_url5": "https://cdn.shopify.com/s/files/1/1280/6143/products/pic3-1.jpg?v=1602107353",
-                        "detail5": "This warm fuzzy clutch bag is perfect for the season. ,Plaid Pattern Fabric Pouch w/ Leather Tassels - 13.5W X 9.25H - Polyurethane,Mixed Metal"
+                        "name": "Basketball Swagg Bag Multi 80.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/1280/6143/products/details_pic1_a0574497-e462-430a-b412-de3c4b46c4ff.jpg?v=1603294786",
+                        "details": "The perfect swag bag. This basketball clutch features handles and detachable strap with gold chain details. 9W X 9H X 9D, Polyurethane, Mixed Metal"
+                    },
+                    {
+                        "name": "No Shady Bizness Hat 58.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/1280/6143/products/ScreenShot2020-04-30at12.50.57AM.png?v=1595042608",
+                        "details": "Okay ladies, can we get in to this oversized floppy straw sun hat, perfect for blocking shade ;) Hat is stitched in place on the side, you carefully cut the stitch if you would like to unroll it"
+                    },
+                    {
+                        "name": "Wanderlust Clutch 59.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/1280/6143/products/IMG_9571.jpg?v=1595042592",
+                        "details": "We are in love with this boho chic vintage style clutch"
+                    },
+                    {
+                        "name": "Ice Me Out Mask 23.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/1280/6143/products/IMG_9747.jpg?v=1595040619",
+                        "details": "This rhinestone face mask is the perfect accessory to any haute fashion look. Features elastic loop bands that go around the ear, no pocket for a filter, but a disposable mask can be worn under it."
+                    },
+                    {
+                        "name": "So Plaid Out Clutch 35.00 USD",
+                        "image_url": "https://cdn.shopify.com/s/files/1/1280/6143/products/pic3-1.jpg?v=1602107353",
+                        "details": "This warm fuzzy clutch bag is perfect for the season. Plaid Pattern Fabric Pouch w/ Leather Tassels - 13.5W X 9.25H - Polyurethane,Mixed Metal"
                     }
                 ]
             }

@@ -112,7 +112,7 @@
 
   {
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTkQCyOzjq6Dk5dGoZRxUPuyWQsvkftyVZndQ&usqp=CAU",
-    "brand_name": "Fear of Good",
+    "brand_name": "Fear of God",
     "CEO": "Jerry Lorenzo",
     "type": "High Fashion/ Luxury",
     "price_point": "$$$$",
@@ -172,17 +172,17 @@
         "products": [
           {
             "name": "FEAROFGODZegna Espadrille 550.00 USD",
-            "image_url": "https://cdn.shopify.com/s/files/1/1003/3354/products/17_LHSUE-A4795L-PTJ_ESPADRIL_TAUPE_FRONT_1920x.jpg?v=1601010038",
+            "image_url": "https://cdn.shopify.com/s/files/1/1003/3354/products/18_LHNPA-A4795L-NER_ESPADRIL_BLACK_FRONT_1920x.jpg?v=1601010064",
             "details": "The classic espadrille reinvented through an American sportswear lens with a contrasting cream rubber sole and embossed Zegna logo on the heel, Embossed Zegna branding, Cream tpu sole, Suede leather,Made in Italy"
           },
           {
             "name": "FEAROFGODZegna Espadrille 550.00 USD",
-            "image_url": "https://cdn.shopify.com/s/files/1/1003/3354/products/6_LHSUE-A4793L-PTJ_DRIVINGLOAFER_STONE_FRONT_1920x.jpg?v=1601010046",
+            "image_url": "https://cdn.shopify.com/s/files/1/1003/3354/products/17_LHSUE-A4795L-PTJ_ESPADRIL_TAUPE_FRONT_1920x.jpg?v=1601010038",
             "details": "The classic espadrille reinvented through an American sportswear lens with a contrasting cream rubber sole and embossed Zegna logo on the heel, Embossed Zegna branding, Cream tpu sole, Smooth leather, Made in Italy"
           },
           {
             "name": "FEAROFGODZegna Suede Loafers 695.00 USD",
-            "image_url": "https://fearofgod.com/collections/fear-of-god-zegna/products/fearofgodzegna-suede-loafers?variant=32889333186621",
+            "image_url": "https://cdn.shopify.com/s/files/1/1003/3354/products/6_LHSUE-A4793L-PTJ_DRIVINGLOAFER_STONE_FRONT_1920x.jpg?v=1601010046",
             "details": "The classic Italian driving loafer reimagined through an American sportswear lens with a contrasting cream rubber sole and embossed Zegna logo on the heel, Leather laces, Embossed Zegna branding, Cream tpu sole, Suede leather, Made in Italy"
           },
           {
@@ -294,11 +294,6 @@
             "name": "THE SCULPT $595.00 USD",
             "image_url": "https://cdn.shopify.com/s/files/1/2653/3618/products/PMC3.5_C3-M-SN1-CO1_Black_1_Men_dd03385b-934c-47f9-b462-68a31d030bcb_1296x.jpg?v=1604097362",
             "details": "Due to high demand and COVID distancing guidelines, there may be additional delays in shipping, Flipping design lines and embodying the Pyer Moss design language, The Sculpt brings a futuristic approach in thought and gesture through its bottom proportions. The upper made of suede, mesh and Pyer Moss’ signature contrast white topstitch, connects the design to our current reality of extreme contrasts made beautiful, Shoes are true to size and run in US Men. For Women sizing, please go two sizes down. We recommend sizing up if you are in-between sizes."
-          },
-          {
-            "name": "String",
-            "image_url": "String",
-            "details": "String"
           }
         ]
       },
@@ -314,16 +309,6 @@
             "name": "FACE MASK (PACK OF 3) 50",
             "image_url": "https://www.bocogear.com/wp-content/uploads/2020/04/Boco-Masks-Flat-Happy.jpg",
             "details": "Face mask with Pyer Moss logo, and double strap. Face mask with Pyer Moss logo, and double strap. Wear independently or as a cover for an N95 mask to extend its life. PLEASE NOTE that these masks are NOT substitutes for medical-grade equipment and are not FDA approved. One size fits all adults - not sized for children. Cotton, Available in black and yellow, Masks come in a pack of three. ALL SALES FINAL, Please note that this item is made to order and will ship in 7-10 business days, Back to Pyer Moss - Collection 3 - Mens - Accessories"
-          },
-          {
-            "name": "String",
-            "image_url": "String",
-            "details": "String"
-          },
-          {
-            "name": "String",
-            "image_url": "String",
-            "details": "String"
           }
         ]
       }
@@ -392,23 +377,13 @@
         "products": [
           {
             "name": "White Reslider Sandals 66.00 USD",
-            "image_url": "https://cdn.shopify.com/s/files/1/0617/1881/products/1Black-Reslider-Sandals-1.jpg?v=1605194859",
+            "image_url": "https://cdn.shopify.com/s/files/1/0617/1881/products/1Daily-Paper-Slider-White-1.jpg?v=1605194833",
             "details": "A modern classic, the Reslider Sandals are a must-have of any summer wardrobe. The moulded footbed provides optimal support and the premium padded strap guarantees comfort for everyday use. This easy to pair piece is finished with the reinvented new Daily Paper Shield Logo."
           },
           {
             "name": "Black Reslider Sandals 66.00 USD",
-            "image_url": "https://www.dailypaperclothing.com/collections/all/products/black-reslider-sandals?variant=31790847852678",
+            "image_url": "https://cdn.shopify.com/s/files/1/0617/1881/products/1Black-Reslider-Sandals-1.jpg?v=1605194859",
             "details": "A modern classic, the Reslider Sandals are a must-have of any summer wardrobe. The moulded footbed provides optimal support and the premium padded strap guarantees comfort for everyday use. This easy to pair piece is finished with the reinvented new Daily Paper Shield Logo."
-          },
-          {
-            "name": "String",
-            "image_url": "String",
-            "details": "String"
-          },
-          {
-            "name": "String",
-            "image_url": "String",
-            "details": "String"
           }
         ]
       },

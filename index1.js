@@ -39,7 +39,7 @@ app.post("/menswear/:brand_name", (req, res) => {
 });
 app.get("/menswear/:brand_name", (req, res) => {
   menswear
-    .find({ brand_name: decodeURI(req.params.brand_name) })
+    .findOne({ brand_name: decodeURI(req.params.brand_name) })
     .then((menswear) => {
       res.json(menswear);
     });

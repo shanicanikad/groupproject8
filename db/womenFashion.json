@@ -326,37 +326,6 @@
           }
         ]
       },
-
-      {
-        "category": "Shoes",
-        "products": [
-          {
-            "name": "",
-            "image_url": "",
-            "details": ""
-          },
-          {
-            "name": "",
-            "image_url": "",
-            "details": ""
-          },
-          {
-            "name": "",
-            "image_url": "",
-            "details": ""
-          },
-          {
-            "name": "",
-            "image_url": "",
-            "details": ""
-          },
-          {
-            "name": "",
-            "image_url": "",
-            "details": ""
-          }
-        ]
-      },
       {
         "category": "Accessories",
         "products": [
@@ -374,16 +343,6 @@
             "name": "Vote Baby Vote Scarf",
             "image_url": "https://cdn.shopify.com/s/files/1/0669/9705/products/voteby_19x20_05e31fb1-89a8-4c01-9237-f564acdf52ca_720x.png?v=1602174797",
             "details": "Two sizes: 19x20 & 34x34, Printed scarf, Fabric: 100% viscose, Dry clean only"
-          },
-          {
-            "name": "",
-            "image_url": "",
-            "details": ""
-          },
-          {
-            "name": "",
-            "image_url": "",
-            "details": ""
           }
         ]
       }
@@ -492,7 +451,7 @@
         "products": [
           {
             "name": "Basketball Swagg Bag Multi 80.00 USD",
-            "image_url": "https://cdn.shopify.com/s/files/1/1280/6143/products/details_pic1_a0574497-e462-430a-b412-de3c4b46c4ff.jpg?v=1603294786",
+            "image_url": "https://cdn.shopify.com/s/files/1/1280/6143/products/detail_pic1_a0574497-e462-430a-b412-de3c4b46c4ff.jpg?v=1603294786",
             "details": "The perfect swag bag. This basketball clutch features handles and detachable strap with gold chain details. 9W X 9H X 9D, Polyurethane, Mixed Metal"
           },
           {

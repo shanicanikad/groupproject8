@@ -6,9 +6,10 @@ BLACK LIVES MATTER ✊🏾 ✊🏾 ✊🏾
 
 Welcome to the Black Excellence/ Black Fashion Project!
 
-Here, (https://antonetteortiz.github.io/blk-experience/) the user enters the landing page where the user can chose between shopping the women's or men's collection.  
 
-When the user clicks on 'Shop Men's', the user will be redirected to the men's fashion collection page (https://antonetteortiz.github.io/blk-experience/men). When the user clicks on the 'Shop Women's, the user will be redirected to the women's fashion collection page (https://antonetteortiz.github.io/blk-experience/women). 
+Here, (https://blk-experience.vercel.app/) the user enters the landing page where the user can chose between shopping the womens or mens collection.  
+
+When the user clicks on 'Shop Men's', the user will be redirected to the men's fashion collection page (https://blk-experience.vercel.app/men). When the user clicks on the 'Shop Women's, the user will be redirected to the women's fashion collection page (https://blk-experience.vercel.app/women). 
 
 At the top of the page is the nav bar labeled 'BLK Experience'. Here, the user can navigate between four different buttons: 'Home', 'Women's', 'Men's', and 'Create Brand'. The user can go back to the landing page by clicking 'Home', can be directed to either the men's or women's collections, or the user can make their own brand (The user can do this by clicking 'Create Brand'and filling out the provided form to create a brand).
 

@@ -7,6 +7,6 @@ if (process.env.NODE_ENV === "production") {
     mongoURI = "mongodb://localhost/WomenFashion";
   }
 
-mongoose.connect(mongoURI, {useNewUrlParser:true});
+mongoose.connect(mongoURI, {useNewUrlParser:true, useUnifiedTopology: true});
 
 module.exports = mongoose;
